@@ -1,0 +1,917 @@
+x,y,hue,cat,location,name
+12.409976,3.0343285,5,"Retail, Retail Technology, Shopping",Bay Area,Standard Cognition
+13.640404,6.1525793,5,"Enterprise Software, Human Resources, Machine Learning",Bay Area,Talview Inc
+-11.306738,45.982708,5,"Construction, Information Technology, Machine Learning, Software",Bay Area,OpenSpace
+-46.574665,-0.7914003,5,"Analytics, Information Technology, Software",Bay Area,EARTH AI
+-23.564707,-36.02448,5,"Automotive, Autonomous Vehicles, Logistics, Machine Learning, Manufacturing",Bay Area,Scotty Labs
+-21.185125,-30.844658,5,"Health Care, Machine Learning, SaaS",Bay Area,VeriSIM Life
+17.494827,3.6674414,5,Artificial Intelligence,Bay Area,Recogni
+26.105654,-27.114883,5,"College Recruiting, Machine Learning, Professional Networking",Bay Area,Jumpstart
+31.641869,24.36719,2,"FinTech, Internet",Los Angeles,Dave Inc.
+21.441313,1.5355043,5,"Autonomous Vehicles, Computer Vision, Transportation, Travel",Bay Area,AutoX
+-21.02092,-22.431204,5,"Financial Services, FinTech, Insurance, InsurTech, Machine Learning, Real Estate",Bay Area,States Title
+31.6633,24.334984,2,"Finance, FinTech, Machine Learning, Messaging, Personal Finance",Los Angeles,Stackin'
+25.503777,-25.302727,5,"Biotechnology, Life Science, Machine Learning, Pharmaceutical",Bay Area,Insitro
+-11.088028,48.84517,5,"Human Resources, Information Technology",Bay Area,Crosschq
+4.3800497,26.879694,5,"Computer, Information Technology, Machine Learning, Manufacturing, Robotics, Software",Bay Area,Bright Machines
+14.011353,5.6836753,4,"Analytics, Education",New York,Narrator
+14.000935,6.096594,5,"Health Care, Machine Learning, Natural Language Processing, Software",Bay Area,Suki
+-11.0824,48.854168,5,"Big Data, Business Intelligence, Developer APIs, Enterprise Software, Machine Learning, Natural Language Processing, Text Analytics",Bay Area,Spectrum
+2.4268024,-13.142036,5,"Computer Vision, Enterprise Software, Machine Learning",Bay Area,Labelbox
+25.88549,-26.693768,5,"Construction, Machine Learning, SaaS",Bay Area,indus.ai
+4.073752,26.741325,5,"Agriculture, Food and Beverage, Machine Learning, Software",Bay Area,Afresh Technologies
+-15.040035,-3.2690883,4,"eSports, Sports, Video Games",New York,Statespace
+-24.774035,-38.5363,4,"B2B, Natural Language Processing, SaaS",New York,Airbud Technologies Inc.
+13.645185,6.155177,5,"Machine Learning, Software, Virtual Assistant",Bay Area,Rasa
+-14.641317,-3.6304348,3,"Digital Marketing, Machine Learning, Predictive Analytics, Web Design",Boston,WEVO
+-21.679855,-31.204397,5,"Customer Service, Knowledge Management, Machine Learning, Natural Language Processing, SaaS",Bay Area,Forethought
+31.825785,23.420265,5,"Financial Services, Insurance, Machine Learning",Bay Area,Crux Informatics
+-25.292006,5.0803857,5,"Call Center, SaaS",Bay Area,Observe.AI
+5.3590255,12.53379,5,"Information Services, Information Technology, Machine Learning, Software",Bay Area,Weights & Biases
+-9.62884,-0.40337542,5,"Business Intelligence, Data Center Automation, Information Technology, Software",Bay Area,FortressIQ
+-23.10626,-34.320057,4,"Analytics, Employee Benefits, Health Care, Machine Learning",New York,Covera Health
+-16.042747,-27.207909,5,"EdTech, Education, Language Learning, Machine Learning, Robotics",Bay Area,ROYBI
+-28.435635,8.294877,5,"Machine Learning, SaaS, Software",Bay Area,Ople
+38.18387,19.515844,5,"Privacy, Security, Software",Bay Area,Trace Data
+-26.62791,8.2839,5,"Developer Tools, Machine Learning",Bay Area,Determined AI
+-28.346577,8.239233,0,"Analytics, Machine Learning, Predictive Analytics, SaaS",Austin,Pinpoint
+6.2831364,6.4316583,5,"Knowledge Management, Machine Learning, Software",Bay Area,Golden
+12.853065,7.970198,5,"Health Care, Health Diagnostics, Information Services, Information Technology, Medical, Medical Device",Bay Area,Notable
+-3.8853762,1.8921868,5,"Automotive, Transportation",Bay Area,Populus
+11.925299,-48.720078,3,"Hardware, Software",Boston,Lightmatter
+-33.828373,27.477543,5,"Automotive, Autonomous Vehicles, Machine Learning",Bay Area,Gatik
+-43.82177,-4.5755935,4,"Cyber Security, Enterprise Software, Health Care, Medical Device, Network Security, Software",New York,CyberMDX
+4.7645345,29.221037,5,"Computer, Hardware, Software",Bay Area,Luminous Computing
+-45.810005,-1.4149308,5,"Education, Information Technology",Bay Area,Navigator
+4.635173,28.978315,5,"Cloud Data Services, Enterprise Software, Machine Learning, SaaS",Bay Area,Prophecy.io
+43.201748,15.348033,0,"Computer Vision, Cyber Security, Information Technology, Physical Security, Security, Software",Austin,Athena Security
+30.197277,24.7384,4,"Computer, Machine Learning, Software",New York,Spell
+25.839548,-26.479084,0,"Commercial Lending, Commercial Real Estate, Construction, FinTech, Software",Austin,Rabbet
+32.960243,23.098574,5,"Robotics, Software",Bay Area,covariant.ai
+-20.39289,-27.990091,4,"E-Commerce, Fashion, Information Services, Machine Learning",New York,Choosy
+-33.901043,27.862976,5,Developer Platform,Bay Area,Neuromation.io
+-9.018955,-0.29177713,5,"Security, Smart Home",Bay Area,Cherry Home
+-33.52287,27.943552,4,"Analytics, Big Data, Machine Learning, Marine Transportation, Shipping",New York,Nautilus Labs
+6.702272,26.60176,5,"Advertising Platforms, Machine Learning, Marketing, SaaS, Sales",Bay Area,Adext AI
+-5.963623,-0.9650918,5,"Advertising, Analytics, Human Resources, Intelligent Systems, Machine Learning, Recruiting, SaaS",Bay Area,Joveo
+21.231588,-19.0795,4,"Enterprise Applications, FinTech, Human Computer Interaction, Human Resources, Machine Learning, Psychology",New York,FairFrame
+25.120754,-23.359707,5,"Cloud Data Services, Enterprise Software, Machine Learning, Natural Language Processing",Bay Area,Augment CXM
+-24.705303,-38.405453,4,"Construction, Hardware, Information Technology, Internet of Things, Software",New York,BuildStream
+-11.305656,45.97122,5,"3D Technology, Augmented Reality, E-Commerce, Fashion, Image Recognition, Retail Technology, SaaS",Bay Area,Allure Systems
+11.648234,-46.403255,5,"Construction, Mining, Software",Bay Area,SafeAI
+3.1350918,-15.1144705,5,"Big Data, Machine Learning",Bay Area,Fiddler Labs
+-23.052174,-34.13603,5,"Construction, Logistics, SaaS, Supply Chain Management",Bay Area,Agora
+-11.705314,49.46695,4,"Information Technology, Machine Learning, Security, Software",New York,Aegis AI
+13.735102,6.180338,5,"3D Technology, Augmented Reality, Computer Vision, Machine Learning, Retail Technology",Bay Area,RestAR
+-8.46961,-2.2915592,5,"Blockchain, Cyber Security, Insurance, Internet of Things, Software",Bay Area,NXM LABS INC.
+43.721947,14.741057,5,"Robotics, Software",Bay Area,"Bear Robotics, Inc."
+-20.397003,-27.953066,5,"Compliance, FinTech, Machine Learning, Natural Language Processing, Video, Video Advertising, Video Chat, Video Conferencing",Bay Area,Theta Lake
+-11.16577,49.4497,5,"Augmented Reality, Computer Vision, Machine Learning, Navigation",Bay Area,"Phiar Technologies, Inc."
+26.192623,-27.796957,5,"Customer Service, E-Commerce, Internet, Machine Learning",Bay Area,Simplr
+-24.709255,-38.40432,4,"Beauty, Fashion, Food and Beverage, Machine Learning, Predictive Analytics",New York,SPATE
+24.631233,-22.938646,5,"Machine Learning, Natural Language Processing",Bay Area,kea
+24.942087,-22.919447,5,"Consumer, Content Discovery, Machine Learning, Mobile Apps, Personal Health, Wellness",Bay Area,Aura Health
+-16.015291,-27.172861,5,"Brand Marketing, Communities, Information Technology, Machine Learning, Software, Travel",Bay Area,Thatch
+-31.87386,25.754047,5,"Collaboration, Enterprise Applications, Enterprise Software, Industrial Automation, Internet, Logistics, Machine Learning, Supply Chain Management",Bay Area,Slync.io
+5.669455,11.133774,5,"Computer, Machine Learning, Software",Bay Area,NanoNets
+24.784086,0.086097404,5,"iOS, Machine Learning, Software",Bay Area,Textile
+44.134285,14.295508,5,"Cyber Security, Machine Learning, SaaS",Bay Area,Clearedin
+20.754604,1.9618493,4,"Analytics, Big Data, Blockchain, Financial Services, Machine Learning",New York,Solidus Labs
+-20.391909,-27.989176,5,"Collaboration, Virtual Assistant",Bay Area,Voicea
+40.080933,17.77368,0,"Customer Service, Enterprise Software, Machine Learning",Austin,Agara Labs
+23.58267,0.4027503,5,"Audio, Music Venues",Bay Area,Descript
+-20.39491,-27.987791,4,"Apps, Content, Machine Learning",New York,Canopy
+12.409804,3.0342348,4,"Biometrics, Cyber Security, Developer APIs, FinTech, Fraud Detection, Identity Management, Software",New York,TypingDNA
+5.582722,26.814194,5,"Blockchain, Cloud Infrastructure, Enterprise Software, SaaS",Bay Area,DIYblockchain
+-22.583216,-33.61234,0,"Health Care, Human Computer Interaction, Machine Learning, Robotics, Software",Austin,Diligent Robotics
+40.189953,17.622002,5,"Cloud Computing, Cloud Infrastructure, Data Center Automation, Infrastructure, Machine Learning, Open Source",Bay Area,Agile Stacks
+-28.718748,8.777223,5,"Hardware, Sensor",Bay Area,VergeSense
+17.838444,3.7699838,5,Automotive,Bay Area,Helm.ai
+14.072883,5.8663573,5,"Analytics, Developer APIs, Developer Tools, Machine Learning, Predictive Analytics",Bay Area,Moesif
+2.453816,-14.203287,4,"Information Technology, Internet, Life Science",New York,Jetson
+5.55825,26.81496,2,"Digital Entertainment, Messaging, Video",Los Angeles,Blue Fever
+-44.276764,-4.4577866,5,"Machine Learning, Natural Language Processing",Bay Area,Superb AI
+-23.560356,-36.01402,5,"Enterprise Software, Gamification, Machine Learning, Sales Automation",Bay Area,SetSail
+5.764982,10.865925,5,"Biotechnology, Life Science, Machine Learning, Software",Bay Area,InterVenn
+21.11845,-21.525915,5,"Employee Benefits, Health Care, Health Insurance, Hospital, Pharmaceutical",Bay Area,WithMe Health
+-10.905935,45.98343,5,"Internet, Machine Learning",Bay Area,"Socrates.AI, Inc."
+-15.047836,-3.6287565,5,"Marketing Automation, Sales Automation, Virtual Assistant",Bay Area,Exceed.ai
+-23.095451,-34.266186,5,"E-Commerce, Machine Learning, Marketplace, Personal Health, Wellness",Bay Area,Seknd
+-28.394205,8.8783245,5,Software,Bay Area,AI Foundation
+26.450111,-28.374166,5,"Blockchain, Finance, Financial Services, FinTech",Bay Area,Figure
+-20.389673,-27.990078,5,Information Technology,Bay Area,Rain Neuromorphics
+12.014065,-50.49632,5,"Customer Service, Enterprise, Natural Language Processing, Software",Bay Area,Apprente
+7.8984885,8.423858,5,"Internet, Software",Bay Area,FrontdeskAI
+-26.734598,7.4030433,5,"Employment, Human Resources",Bay Area,Cultivate
+24.476454,-23.306585,3,"Machine Learning, Medical Device, Robotics",Boston,Activ Surgical
+-22.58329,-33.612415,5,"Analytics, Information Technology, Machine Learning, Software",Bay Area,Promethium
+40.186436,17.626648,4,Machine Learning,New York,Datagran
+-14.534462,-3.2670205,4,"Computer, Enterprise Software, Human Resources, Industrial Automation, Information Services, Information Technology, Machine Learning, Robotics",New York,electroNeek
+8.812971,4.7428,5,"Big Data, Bitcoin, Blockchain, Cryptocurrency, Cyber Security, Ethereum, FinTech, Machine Learning, Risk Management",Bay Area,AnChain.ai
+21.277456,-23.5255,4,"Building Maintenance, Machine Learning, Property Management, Real Estate, Robotics",New York,Skyline Robotics
+-23.181253,-35.166065,5,"Cloud Computing, Developer Tools, Internet, Machine Learning",Bay Area,Datree
+-30.137537,25.031841,4,"Ad Retargeting, Ad Server, Ad Targeting, Advertising, Advertising Platforms, Digital Marketing, Fraud Detection, Mobile Advertising, Video Advertising",New York,Kubient
+2.6622016,-15.689143,4,"Banking, Consumer, Financial Services, FinTech, Internet, Machine Learning, Personal Finance",New York,Harvest Platform
+-7.7610927,-1.2230626,5,"Industrial Automation, Machine Learning",Bay Area,Overview
+9.064469,4.813125,5,"Automotive, Machine Learning, Software",Bay Area,Revvo Technologies
+26.18575,-27.78617,5,"Enterprise, Enterprise Software, Machine Learning",Bay Area,Allganize
+17.439846,3.6129842,5,Machine Learning,Bay Area,Myia Labs
+42.066048,16.340324,3,"Big Data, Finance, Financial Services, FinTech, Machine Learning",Boston,Aiera
+11.642037,-48.800987,5,"GPU, Machine Learning, Training",Bay Area,Snark AI
+3.3178463,-15.32741,5,"Health Care, Sports",Bay Area,Zone7
+30.190277,24.728615,5,"Construction, Real Estate, Robotics",Bay Area,Dusty Robotics
+-26.027292,8.107468,5,"Emerging Markets, Medical",Bay Area,Bot MD
+-5.9636235,-0.96509165,5,"Apps, Messaging, Software",Bay Area,Mirror Emoji Keyboard
+-33.481876,27.6071,5,"Blockchain, Education, Health Care, Machine Learning, SaaS",Bay Area,"SMARTIFICIAL RESEARCH & TECHNOLOGY, INC"
+18.318686,3.1858704,5,"B2C, Information Technology, Machine Learning",Bay Area,2Hz
+40.441757,18.03432,4,"Consulting, Content, Information Services, Information Technology, Machine Learning, Professional Services",New York,Xperiti
+17.423603,3.3858757,4,"Health Care, Hospital, Medical",New York,Precision Health AI
+30.209831,24.748415,5,"Information Technology, Machine Learning",Bay Area,Dyneti Technologies
+-21.68086,-31.203909,5,"B2B, Brand Marketing, Enterprise, Retail Technology",Bay Area,COMMERCE.AI
+22.296844,-23.44101,5,"Cloud Computing, Developer Platform, Developer Tools, Enterprise Software, GPU, Machine Learning",Bay Area,Onepanel
+32.95961,23.101408,5,"Apps, Virtual Assistant",Bay Area,Aiqudo
+11.847203,-47.147274,5,"B2B, Blockchain, Cryptocurrency, E-Commerce, FinTech, Gamification, Machine Learning, Mobile, SaaS",Bay Area,Monetizr
+-16.017384,-27.17564,4,"Asset Management, Commercial Real Estate, Manufacturing, Property Management, Real Estate, Residential",New York,Okapi
+11.642242,-48.801186,4,"Analytics, FinTech, Information Technology, InsurTech, Machine Learning, Predictive Analytics, Software",New York,Stratyfy
+40.76634,17.442062,5,"Analytics, Information Technology, Software",Bay Area,Vannevar Labs
+-10.910306,45.973915,3,"Computer, Information Technology, Machine Learning, Software",Boston,BlinkAI
+24.483355,-23.181341,5,"Marketing Automation, Messaging",Bay Area,EyeLevel.ai
+17.801311,3.1557336,5,"Developer Tools, Machine Learning, Privacy, SaaS",Bay Area,Tonic
+-44.278107,-4.567733,4,"Enterprise Software, Machine Learning, SaaS, Sales Automation",New York,Jiminny
+11.684207,-50.64207,5,"Health Care, Hospital",Bay Area,Visla Labs
+-44.786827,-5.81918,0,"Cyber Security, Information Technology, Security, Software",Austin,Ontic Technologies
+-5.8885665,-1.3818433,5,Machine Learning,Bay Area,Aingel Corp.
+-44.272194,-4.5839853,3,"Health Care, Health Diagnostics, Medical, Natural Language Processing, Psychology",Boston,Marigold Health
+-0.33580416,-12.263347,5,"Enterprise Software, Intelligent Systems, Machine Learning, Natural Language Processing",Bay Area,"Senseforth, Inc"
+41.220394,17.066675,5,"Computer, Software",Bay Area,Ambient.ai
+-11.061201,49.217457,5,Software,Bay Area,"VoiceSell, Inc."
+-21.61471,-30.671555,0,"Information Technology, Machine Learning",Austin,Hypergiant
+5.8415995,10.739016,5,"Cyber Security, Enterprise Software, Machine Learning, SaaS",Bay Area,Kriptos
+25.546238,-25.354013,5,"Finance, FinTech",Bay Area,Clerkie
+11.570417,-46.79612,5,"Aerospace, Air Transportation, Autonomous Vehicles, Robotics",Bay Area,Pyka
+-7.689197,-1.2844391,4,"Information Services, Information Technology, Machine Learning",New York,Dasha.AI
+-11.080345,48.861233,5,"Cloud Computing, Computer Vision, Medical, Medical Device, Video",Bay Area,Virgo Surgical Video Solutions
+25.49216,-25.359428,4,"3D Technology, Animation, Graphic Design, Human Computer Interaction, Software",New York,RADiCAL
+3.122794,-15.114077,4,"Analytics, Industrial Automation, Manufacturing",New York,ChemTech AI
+44.423225,14.277639,5,"Apps, Machine Learning, Mobile Apps, Real Estate, Rental, Rental Property",Bay Area,keyo AI
+-15.042114,-3.2720332,5,"Intelligent Systems, Machine Learning, Productivity Tools, Software, Video Conferencing",Bay Area,Lentil AI
+-20.39845,-27.958231,5,"Blockchain, Machine Learning, Management Information Systems",Bay Area,"CoinAlpha, Inc."
+1.6316795,18.766819,5,"B2B, Human Resources, Machine Learning, Recruiting, SaaS, Speech Recognition",Bay Area,VCV
+3.3301227,26.212305,5,"Autonomous Vehicles, Computer Vision, Machine Learning, Simulation, Software Engineering",Bay Area,Metamoto
+-5.9636283,-0.9650888,5,"Information Technology, Machine Learning",Bay Area,platform.ai
+24.601906,-22.978273,0,"Analytics, Business Travel, Machine Learning, Travel",Austin,Shep Travel
+-20.40264,-27.971989,5,"Audio, Education, Internet, Speech Recognition, Training",Bay Area,Ambit Analytics
+43.31543,15.263622,5,"B2B, Big Data, Enterprise Software, Machine Learning, Marketing",Bay Area,Fortella
+-24.730707,-38.455593,5,"Biotechnology, Enterprise Software, Health Care, Health Diagnostics, Machine Learning, Medical, SaaS, Software",Bay Area,Darmiyan
+24.606272,-23.496815,4,"Analytics, Commercial Real Estate, FinTech, Real Estate, Real Estate Investment",New York,B+E
+-14.88181,-3.0995696,2,"CRM, E-Commerce, Machine Learning, Retail Technology",Los Angeles,PRZM
+4.4832006,28.52026,4,"B2B, Image Recognition, Machine Learning, SaaS",New York,omniX labs
+11.70151,-49.803673,4,Energy,New York,Amperon
+2.422444,-14.537144,4,"Machine Learning, Sports",New York,SportsGrid
+38.1853,19.517582,5,"Payments, Transaction Processing",Bay Area,Beacons AI
+26.15439,-0.56706387,2,"Mobile Apps, Social Media",Los Angeles,Capture Technologies
+-21.18676,-30.839417,4,"Analytics, Data Visualization, Information Technology, Software",New York,ETFLogic
+25.51777,-25.389214,5,"Advertising, Fitness, Lifestyle, Mobile Apps",Bay Area,Steps Mobile Inc.
+23.571598,0.41075143,5,"Insurance, Machine Learning, Security",Bay Area,AI Insurance
+1.6508358,-12.890204,5,"Advertising, Computer Vision, Internet of Things, Predictive Analytics",Bay Area,Omnee Inc.
+26.895882,-0.9343796,5,"Human Computer Interaction, Machine Learning, Robotics, Speech Recognition",Bay Area,ORBAI
+-23.583864,-36.06688,5,"FinTech, Marketplace",Bay Area,Become
+-11.769424,49.133827,5,"Big Data, Data Visualization, Enterprise Software, GPU, Machine Learning, Real Time",Bay Area,PipelineAI
+-17.879675,-28.73866,2,"3D Printing, 3D Technology, Construction, Real Estate",Los Angeles,Cazza
+12.510022,6.047538,5,"Human Resources, Machine Learning, Predictive Analytics",Bay Area,Ansaro
+4.1137695,26.76755,5,"Analytics, Autonomous Vehicles, Big Data, Computer Vision, Geospatial, Machine Learning, Predictive Analytics",Bay Area,Hayden AI
+9.298375,4.6437097,5,"Augmented Reality, Gaming, Machine Learning, Media and Entertainment",Bay Area,Scanta
+32.07966,24.055834,5,"Machine Learning, Media and Entertainment, Mobile",Bay Area,Snipfeed
+1.3390169,-11.158151,5,Information Technology,Bay Area,Notiv
+25.517103,-25.3905,5,"Computer, Enterprise Software, Machine Learning, Open Source, Predictive Analytics, Software",Bay Area,MindsDB
+44.253803,14.673156,5,"Data Integration, Internet, Machine Learning",Bay Area,Dashblock
+-43.808468,-4.535797,4,"Big Data, Education, Hardware, Information Technology",New York,Bakpax
+4.307062,26.830296,3,"Health Care, Machine Learning, Wellness",Boston,Assured Allies
+2.468539,-15.074448,5,"Career Planning, Consulting, Employment, Human Resources, Machine Learning, Recruiting",Bay Area,Newton Labs
+-28.728758,8.773065,4,"B2B, Enterprise Software, FinTech, Machine Learning, Non Profit, Payments, SaaS, Social Impact",New York,Fundraise Up
+31.394108,23.49101,5,"Augmented Reality, EdTech, Education, Personal Development, Virtual Reality",Bay Area,PlusOne
+-27.88065,8.668847,3,"Financial Services, FinTech, Market Research, Natural Language Processing, News",Boston,"UniBit, Inc."
+26.479713,-28.43767,4,"Big Data, Enterprise Software, Internet of Things, Machine Learning, Predictive Analytics",New York,Intelligent Artifacts
+14.071944,5.9074473,2,"Machine Learning, Software",Los Angeles,Stick
+24.634354,-22.94496,4,Video,New York,intenseye
+20.756962,1.9659665,5,"Autonomous Vehicles, Electric Vehicle, Hardware, Machinery Manufacturing",Bay Area,Ztractor
+4.031543,26.723633,5,"Computer, Software",Bay Area,Actionable Science
+-24.55382,-38.10455,5,"Fashion, Wedding",Bay Area,COUTURME
+-9.854982,43.485565,5,"Apps, Enterprise Software, Home Services, Information Technology, Internet, Mobile, Real Estate, Software, Trading Platform",Bay Area,Rentback
+-24.436068,-37.89756,5,"Biotechnology, Health Diagnostics, Medical",Bay Area,Clinicai
+32.959404,23.101528,4,"Computer, Customer Service, Machine Learning, Software",New York,Loris.ai
+39.160366,18.783524,5,"Health Care, Image Recognition, Machine Learning, Neuroscience, Pharmaceutical",Bay Area,BrainKey
+-32.897495,27.757555,5,"Analytics, Big Data, Business Intelligence, SaaS, Software",Bay Area,Aristotle (registered as Bouquet.ai)
+44.029152,14.847525,5,"Content, Content Creators, Digital Media, Machine Learning, Social Media, Social Media Advertising, Social Media Management, Social Media Marketing",Bay Area,SocialPiper
+-33.48497,27.610018,5,"Internet, Machine Learning, SaaS, Software",Bay Area,Syncari
+23.790026,0.7788518,4,"Broadcasting, Machine Learning, Podcast",New York,Podible
+24.343447,0.28881097,5,"Consumer Applications, Information Technology, Marketplace, Professional Networking, Social Network, Software",Bay Area,Plural.com
+26.8002,-0.8875492,5,"Communities, Employee Benefits, Health Care, Machine Learning, mHealth, Natural Language Processing, Personal Health, Wellness",Bay Area,Supportiv
+24.793036,-21.923262,5,"Big Data, E-Commerce, Internet",Bay Area,Birdie
+12.048118,-51.76661,5,"Broadcasting, Coworking, Information Technology, Machine Learning, Media and Entertainment, Social Media, Software",Bay Area,Lunchclub
+-46.297497,-0.81609607,4,Artificial Intelligence,New York,graphen
+4.87139,26.873549,5,"Health Care, Machine Learning, Medical Device, Wearables",Bay Area,Respira Labs
+-33.921303,27.867207,5,"Data Integration, Machine Learning, Software",Bay Area,xaana.ai
+25.160652,-23.163343,5,"Blockchain, Cryptocurrency, FinTech",Bay Area,Element Zero Network
+4.847793,26.874475,5,"Machine Learning, Marketing Automation",Bay Area,Leadza
+-24.818913,-38.61605,5,"Cyber Security, Machine Learning",Bay Area,Blue Hexagon
+-10.843381,46.22241,4,"Gaming, iOS, Mobile, Software",New York,Rune
+3.354077,-15.303834,2,Information Technology,Los Angeles,SIMPLIFY REALITY INC.
+41.684044,16.66597,4,"Education, Health Care, Software, Wellness",New York,HelloRelish
+-30.058165,24.908611,5,"3D Technology, Interior Design, Real Estate, Software, Virtual Reality",Bay Area,at HUM
+11.947204,6.0871544,5,"Enterprise Applications, Enterprise Software, Image Recognition, Information Technology, Machine Learning, SaaS",Bay Area,"LearningPal, Inc."
+8.833703,4.7665067,4,"Sales, Virtual Reality",New York,Pitchboy
+-14.649911,-3.636011,5,"Human Resources, Machine Learning",Bay Area,Humu
+-17.954607,-28.763252,5,"Agriculture, AgTech, Biotechnology, Farming, GreenTech, Machine Learning",Bay Area,Andes
+39.160103,18.783268,2,"Health Care, Medical, Software",Los Angeles,CardioCube
+7.0369,26.382038,4,"Information Technology, Machine Learning, SaaS, Small and Medium Businesses",New York,Electric (Electric AI)
+-21.593315,-30.65159,5,"Analytics, Computer, Information Technology, Software, Speech Recognition",Bay Area,DeepAffects
+-8.715535,-1.504361,5,"Big Data, Consulting, Machine Learning, SaaS, Supply Chain Management",Bay Area,ThroughPut Inc.
+-34.69932,27.66005,4,"Health Care, Machine Learning, Natural Language Processing, Robotics, Software",New York,CognitiveHealth Technologies LLC
+38.622097,19.197025,3,"Analytics, Venture Capital",Boston,KingsCrowd
+-17.834085,-28.716013,5,"GovTech, Information Technology, Machine Learning, Real Estate",Bay Area,Just Appraised
+-23.112326,-34.282383,5,"DSP, Mobile Advertising",Bay Area,Downstream.ai
+-7.8485227,-1.5014701,4,"Analytics, Big Data, Machine Learning, Market Research",New York,PredictWise
+-43.825066,-4.5805373,5,"Advertising, Digital Marketing, Marketing, Marketing Automation, Software",Bay Area,Lightning AI
+1.4442157,-12.088444,5,"Computer Vision, Machine Learning, Robotics, Sensor, Software",Bay Area,Everestlabs.AI
+17.416607,3.4120977,5,"Consumer Goods, Location Based Services",Bay Area,Jetpack
+-5.9723597,-1.4408942,2,"3D Technology, Film, Gaming, Virtual Reality",Los Angeles,rct studio
+-22.598001,-34.592354,5,"Audio, Internet of Things",Bay Area,Senstone Inc.
+40.503063,17.95657,2,"Internet, Legal",Los Angeles,Bootstrap Legal
+-46.113354,-0.956641,5,"Developer Platform, Human Resources, Internet, Machine Learning, Recruiting, Software",Bay Area,10by10.io
+-10.850718,46.244034,2,"B2B, Hotel, Machine Learning, Mobile, SaaS, Tourism, Travel",Los Angeles,"Baarb, Inc."
+-26.916328,6.1191177,5,Information Technology,Bay Area,Cohereum
+23.773243,0.78465307,5,"Machine Learning, Manufacturing, SaaS, Video",Bay Area,Drishti
+21.177263,1.4967004,5,"Database, Information Technology, Internet of Things, Machine Learning, SaaS, Software",Bay Area,Grovf
+2.6613252,-15.687453,5,"Apps, EdTech, Education, Software",Bay Area,MyBuddy.ai
+-17.525627,-24.309647,5,"Apps, Big Data, Dating, Events, Leisure, Lifestyle, Machine Learning, Mobile, Social Network",Bay Area,Spontime
+-18.752934,-23.07167,4,"Developer Platform, Developer Tools, Software",New York,Crane Ai
+-33.921223,27.867205,4,"Internet, Natural Language Processing",New York,Verbit.ai
+4.445451,28.381071,5,"Digital Media, Internet, Machine Learning, Media and Entertainment, Personalization",Bay Area,Triton
+8.642793,7.178099,4,"Analytics, Internet, Machine Learning",New York,Paradigm
+-14.516516,-3.309193,4,"Big Data, EdTech, Education, Internet, Machine Learning, Toys",New York,Mishka AI
+-8.478801,-4.4418325,4,"Advertising, Digital Marketing, Graphic Design, Machine Learning, Marketing Automation, Social Media Marketing",New York,dipp
+25.133356,-0.06905528,3,"Developer Tools, Machine Learning, SaaS, Software",Boston,mabl
+40.503212,17.956253,0,"Computer Vision, Machine Learning, Software",Austin,Locus Insights
+32.107082,24.036875,5,"Finance, FinTech, Machine Learning, Personal Finance, Wealth Management",Bay Area,The Beans
+-24.152397,-37.263367,5,"Big Data, Enterprise Software, Human Resources, Machine Learning, Predictive Analytics, SaaS",Bay Area,"Retainable, Inc. (formerly known as QuitAlert)"
+7.85395,8.405312,5,"B2B, Big Data, Information Technology, Internet, Machine Learning, Productivity Tools, Real Time",Bay Area,Hexa
+24.341354,0.28722772,4,"Analytics, Biometrics, Facial Recognition, Fraud Detection, Image Recognition, Machine Learning, Security, Speech Recognition",New York,Anryze
+25.161312,-0.08213341,5,"Analytics, Software",Bay Area,Brain of the Store
+23.592476,0.39540762,5,"Hospitality, Machine Learning, Software, Tourism, Travel",Bay Area,Globaleur
+-5.8885584,-1.3818327,5,"Big Data, Information Services, Information Technology, Machine Learning",Bay Area,Resonance AI
+-28.635323,8.5952215,2,"Cryptocurrency, Digital Media, Intelligent Systems, Machine Learning, Mobile Payments, Natural Language Processing, Social Impact, Social Media, Social Network, Virtual Assistant",Los Angeles,"Other Mind, Inc."
+-22.593798,-34.590927,5,"3D Technology, Computer Vision, CRM, Database, Information Services, Information Technology, Machine Learning, Test and Measurement",Bay Area,BodiDataâ¢
+12.058188,-51.499985,4,"Augmented Reality, Health Care, Machine Learning, Virtual Reality",New York,"IKONA, Inc."
+31.897734,23.439514,4,"CRM, Information Technology, Machine Learning",New York,Signum.ai
+-34.844112,27.559643,5,"Advertising, Enterprise Software, Human Resources, Marketplace, Music, Video",Bay Area,Fastcast
+7.1397367,25.324013,5,"B2B, Marketing Automation, SaaS",Bay Area,Popmetrics
+11.958312,-48.781036,4,"3D Technology, Architecture, Commercial Real Estate, Interior Design, Real Estate, SaaS, Smart Building, Software",New York,Archeads
+-18.475647,-21.480097,0,"Advertising Platforms, B2B, Big Data, FinTech, Machine Learning, Management Information Systems, Marketing Automation, Prediction Markets, Predictive Analytics, SaaS",Austin,stratEDGE App
+22.34996,-22.07278,4,"Biotechnology, Clinical Trials, Software",New York,Owkin
+13.577068,5.633647,5,"Genetics, Information Technology, Machine Learning, Personal Health, Pharmaceutical, Search Engine, Software",Bay Area,XLabs AI
+14.055577,5.783665,4,"Health Care, Health Diagnostics, Machine Learning, Medical",New York,Paige.AI
+11.566429,-46.78608,5,"Machine Learning, Natural Language Processing, Speech Recognition",Bay Area,Quirk.ai
+-34.64038,27.453726,5,"Machine Learning, Sales Automation",Bay Area,Automation Hero
+-45.86091,-1.3059868,5,"Document Management, Legal Tech, Professional Services, Translation Service",Bay Area,TranslateFX
+-7.7297363,-1.3227899,5,"Business Development, Customer Service, Information Technology, Legal, Legal Tech, Messaging",Bay Area,MessagePath
+21.202414,1.4879265,5,"Financial Services, Information Technology, Insurance, Legal Tech",Bay Area,Agreemint
+-46.56988,-0.7821123,5,"Android, Health Care, iOS",Bay Area,PolyFins Technology Inc
+-28.305353,8.2183695,5,"Analytics, Big Data, Machine Learning, Personalization",Bay Area,Click Deal Buy!
+-26.87889,7.25212,5,"Blockchain, Cryptocurrency, FinTech",Bay Area,WeTuring
+24.640104,-23.513325,4,"Big Data, E-Commerce, Enterprise Software, Identity Management, Machine Learning, PaaS, Retail Technology, Unified Communications",New York,LUXLOCK
+2.0038037,-14.380249,5,"Information Technology, Machine Learning",Bay Area,Woebot Labs
+5.4698105,11.989817,5,"Education, Non Profit",Bay Area,AI4ALL
+21.505978,1.8255758,2,"Advice, Financial Services, FinTech, Machine Learning, Personal Finance",Los Angeles,Our Libra
+-16.10343,-22.05832,5,"Delivery Service, Food and Beverage, Logistics, Social Media, Software",Bay Area,Coozyn
+1.9816123,-14.375916,5,"Blockchain, Cloud Data Services, Health Care, Machine Learning, Predictive Analytics, Wellness",Bay Area,BetterHealth.ai
+3.5508158,26.374512,5,"Search Engine, SEO, Web Apps",Bay Area,IntelligentWeb
+42.367504,16.075275,4,"Analytics, Big Data, E-Commerce, Information Technology, Marketing, Software",New York,Mr. Booster
+2.6655538,-15.691093,5,"Analytics, Health Care, Information Technology, Machine Learning, Medical, Robotics, Software",Bay Area,TaskUnite
+-25.31746,5.1426425,4,"Machine Learning, Restaurants, SaaS",New York,Ingest.ai
+6.2244234,26.729944,4,"Art, Machine Learning, Marketplace, Photography, Printing",New York,SeeMe
+-20.389767,-27.989702,3,Artificial Intelligence,Boston,Robbie AI
+31.259443,23.833286,2,"Politics, Software",Los Angeles,CallTime.AI
+-44.283104,-4.5244684,5,"B2B, Big Data, Blockchain, Data Center Automation, Neuroscience, Real Time, SaaS",Bay Area,Everythink
+-32.999565,28.014174,5,"Health Care, Health Diagnostics, Machine Learning",Bay Area,Curai
+-5.9939313,-1.443984,5,"Apps, Events, Machine Learning, Media and Entertainment, Messaging, Natural Language Processing, Ticketing",Bay Area,Lea (Live Event Assistant)
+-33.444164,27.61448,5,"Developer Tools, Software",Bay Area,Incentivai
+38.38566,19.376297,4,"Big Data, E-Commerce, E-Commerce Platforms, Machine Learning, Mobile, SaaS",New York,TradeMonday
+18.491386,3.0969095,3,Internet,Boston,Breezler
+-11.124194,49.373676,4,"Human Resources, Information Technology",New York,Cognitive Talent Solutions
+-5.888559,-1.3818333,4,"Big Data, Data Visualization, FinTech",New York,AltHub LLC
+23.590809,0.39601642,5,"B2B, Blockchain, Logistics, Transportation",Bay Area,Sote
+11.686195,-50.87699,5,"Content Discovery, Information Technology, Machine Learning, Manufacturing, Software",Bay Area,Spring Discovery
+18.031141,3.600784,5,"Computer, Manufacturing, Software",Bay Area,Landing AI
+9.081164,4.815613,5,"Computer Vision, Developer APIs, Furniture, Image Recognition, Interior Design, Machine Learning, Visual Search",Bay Area,Grokstyle
+43.3138,15.261634,5,"Machine Learning, Sales Automation, Software",Bay Area,Buck.ai
+21.159437,-18.870174,2,"Blockchain, Machine Learning, Media and Entertainment, Mobile",Los Angeles,Bombay Sour Films LLC
+11.896453,-46.545033,4,"Big Data, Business Intelligence, Digital Marketing, Marketing Automation, SaaS",New York,PEERCLICK
+4.4887047,27.795084,5,"Computer, Shopping, Software",Bay Area,Zippin
+21.200232,1.4844239,5,"Art, Content Delivery Network, Smart Home",Bay Area,Palacio Inc.
+4.7089667,29.135098,4,"Biotechnology, Machine Learning",New York,WaveAcid Inc.
+-16.007528,-27.162271,5,"CRM, Information Technology, Internet, Small and Medium Businesses, Software",Bay Area,"Solecular, Inc."
+20.757524,1.9657519,5,"Analytics, Biotechnology, Health Care",Bay Area,AHEAD Medicine
+-11.0793495,48.863277,5,"Cloud Computing, Drones, Electrical Distribution, Forestry",Bay Area,Above
+-7.711949,-1.269849,4,"Asset Management, Homeland Security, Law Enforcement, Market Research, National Security, Predictive Analytics, Public Safety, Risk Management, Security",New York,"GTop Group, Corp."
+-22.334631,-34.10743,5,"Information Technology, Machine Learning",Bay Area,Supervaisor
+4.2938814,26.828352,4,"Accounting, Industrial Automation, Machine Learning",New York,Efortles Inc
+-15.041548,-3.2711916,3,"Infrastructure, Machine Learning",Boston,Lightelligence
+-6.039012,-0.94402856,5,"Mobile, Personalization, Search Engine, Semantic Search",Bay Area,WNNA
+17.528906,3.2186565,5,"Content Marketing, Customer Service, Digital Marketing, Internet, Marketing",Bay Area,PlayingViral
+25.113056,-23.371593,5,"Apps, Augmented Reality, Communities, Mobile, Mobile Apps, Social Media, Social Network",Bay Area,"Zest, the Reality Media App"
+41.68072,16.665796,0,"Apps, Dating, Messaging, Mobile Apps",Austin,8dates Dating
+8.859849,4.753492,4,"Augmented Reality, E-Commerce, Fashion, Marketplace",New York,Recleau
+-27.882578,8.670434,4,"Broadcasting, Local, Media and Entertainment, News, Social Media, Social News, Video",New York,Craterland
+38.183826,19.515875,5,"Commercial, Digital Marketing, Internet, Machine Learning, Virtualization",Bay Area,conDati
+-16.020052,-27.178797,2,"Machine Learning, Physical Security, Smart Home",Los Angeles,Arcuity
+17.820904,3.7733212,5,"Information Technology, Internet",Bay Area,Aisera
+13.770081,5.561245,5,"Enterprise Software, Machine Learning",Bay Area,Noble.AI
+5.3625216,12.513899,5,"eSports, Gaming, Sports",Bay Area,ZAR
+26.554775,-0.7688868,5,"Fitness, Personal Health, Software",Bay Area,Personal GOLD
+31.658571,24.336746,4,"Internet, Staffing Agency",New York,9to5.ai
+-23.821768,-36.518143,0,"Internet of Things, Machine Learning, Mobile, Mobile Apps",Austin,Hexis
+11.962412,-48.789127,0,"Information Technology, Internet, Machine Learning",Austin,Legendary AI
+26.26285,-27.987421,5,"Enterprise Software, Marketing, Simulation",Bay Area,Nucleal
+25.549387,-25.36173,5,"Health Care, Wellness",Bay Area,"HoloAsh, Inc."
+-45.623287,-2.0869353,5,"Education, Health Care, Medical",Bay Area,Fathom
+31.832952,24.28042,4,"Asset Management, FinTech, Machine Learning",New York,Matcha Fund
+31.889404,23.428385,3,"Developer Platform, Developer Tools, Machine Learning, Mobile Apps",Boston,Fritz
+39.16127,18.782467,5,"Big Data, Blockchain, Financial Services, FinTech, Information Technology, Legal Tech, Machine Learning, Privacy, Wealth Management",Bay Area,Prifina
+7.2602825,26.114471,5,"Customer Service, Digital Marketing, E-Commerce, Information and Communications Technology (ICT), Information Technology, Machine Learning, Natural Language Processing, Sales Automation, Virtual Assistant",Bay Area,Cognigy
+-32.162754,28.437151,4,"Blockchain, Consulting, Machine Learning, Software Engineering, Venture Capital",New York,Alphabox Technologies
+31.726353,23.39113,5,"Hardware, Machine Learning, Robotics, Smart Home, Software",Bay Area,Bumblebee Spaces
+-26.404997,7.5943346,4,"Augmented Reality, Real Estate",New York,LIVEIN
+5.4659624,26.824778,5,"Education, Information Technology, Machine Learning, SaaS",Bay Area,Mission Labs
+2.4241426,-13.137991,2,"Computer, E-Commerce, Messaging, Retail, SaaS, Software",Los Angeles,CONVRG
+43.313744,15.261669,5,"Analytics, Cyber Security, Identity Management, Machine Learning",Bay Area,Idaptive
+-30.068888,24.923939,4,"Information Technology, Machine Learning",New York,Intelligent Layer
+-20.38923,-27.989439,5,"Computer Vision, Enterprise Software, Machine Learning, Medical Device",Bay Area,Subtle Medical
+13.988117,6.1083856,5,"Apps, Augmented Reality, Big Data, Computer Vision, Machine Learning, Virtual Reality",Bay Area,6D.ai
+21.272982,1.474452,5,"Big Data, Data Center Automation, Industrial Automation, Information Technology",Bay Area,dotData
+3.0046709,21.935925,5,"Financial Services, Venture Capital",Bay Area,SymphonyAI
+-23.821747,-36.518105,4,"Beauty, Personalization",New York,"HelloAva, Inc"
+-21.469683,-31.286901,5,Artificial Intelligence,Bay Area,Infrrd
+26.254932,-0.61481017,5,"Consumer Software, Health Care, Machine Learning, Mobile, Predictive Analytics, Product Design, Product Management, Software",Bay Area,Project RÅnin
+40.245087,18.062817,5,"Information Technology, Software",Bay Area,Gyrfalcon Technology Inc.
+-21.687445,-31.196642,5,"Computer, Software",Bay Area,Peritus.ai
+-22.58022,-34.58688,5,"Cyber Security, Internet of Things",Bay Area,EntirID
+-10.824725,46.15841,4,"Advertising, Analytics, Consumer Research, Digital Marketing, Market Research, Marketing, Messaging",New York,Groundwork
+44.234886,14.274995,3,"Internet, Personalization",Boston,"MobileMonkey, Inc."
+-11.340316,46.248585,5,"Concerts, Events, FinTech, Internet, Machine Learning, Mobile Payments, Restaurants, Retail Technology, Software",Bay Area,Sleek
+17.778784,3.7845297,5,"Cloud Security, Cyber Security, Machine Learning",Bay Area,Chronicle
+-19.740196,-27.05743,5,"E-Commerce, Natural Language Processing, Personalization",Bay Area,Tooso
+11.893967,-48.71128,3,"Bioinformatics, Biotechnology, Machine Learning, Pharmaceutical",Boston,Reverie Labs
+40.132877,17.673939,5,"Enterprise Software, Machine Learning, Predictive Analytics",Bay Area,Aible
+-22.580112,-33.60923,5,"Analytics, Location Based Services, Machine Learning, Mobile Apps, Social Network",Bay Area,Snark
+25.767366,-26.217978,5,"Machine Learning, Robotics",Bay Area,Zoetic AI
+4.4780293,27.316853,5,"Cyber Security, Information Technology",Bay Area,Calypso AI
+-43.807182,-4.5299373,5,Robotics,Bay Area,Turing Video
+-11.063362,49.224106,5,"Automotive, Information Technology, Software",Bay Area,Phantom AI
+-7.748857,-1.2411628,4,"3D Technology, Big Data, Construction, Internet of Things, Mobile, Predictive Analytics",New York,Kwant.ai
+-46.683926,-1.0696323,4,"Fitness, Machine Learning, Personal Health, Virtual Assistant",New York,Actively
+-8.286749,-1.0724683,5,"Information Technology, Software",Bay Area,"BrainChild Innovation, LLC"
+11.640053,-46.398746,5,"Automotive, Digital Marketing, Machine Learning, Mobile, Predictive Analytics, Sales Automation, SMS",Bay Area,Bitesize
+5.1402426,26.862183,2,"Computer Vision, Data Visualization, Digital Marketing, Digital Media, Image Recognition, Internet, Media and Entertainment, Music, Music Streaming, Social Media",Los Angeles,MusicMind
+-44.282135,-4.5378947,4,"Analytics, Big Data, EdTech, Education, Information Technology",New York,Watermark
+-8.70109,-1.5208496,5,"Computer Vision, Machine Learning",Bay Area,SuperAnnotate AI
+-14.928455,-3.6847422,5,"Big Data, Information Technology, Machine Learning",Bay Area,Alectio
+26.104181,-26.990881,5,"Analytics, Big Data, Cloud Data Services, Machine Learning, PaaS",Bay Area,Deepnote
+11.984472,-51.564014,4,Information Technology,New York,DeepFraud AI
+-24.520859,-38.031593,0,Mobile,Austin,Locus Tracking
+4.3837323,27.456312,5,"Infrastructure, Internet, Internet of Things, Machine Learning",Bay Area,All Turtles
+31.393824,23.831594,5,"B2B, Developer APIs, SaaS",Bay Area,rammer.ai
+6.965178,8.182716,5,"Cloud Data Services, Computer Vision, Embedded Systems, Machine Learning, Robotics, Sensor, Software",Bay Area,Foresight AI Inc.
+26.350286,-28.120035,4,"B2B, Big Data, Cyber Security, Enterprise, FinTech, Machine Learning",New York,Differential Ventures
+38.183876,19.522516,5,FinTech,Bay Area,EquBot
+-28.010881,8.789464,5,"Information Technology, Machine Learning, Software",Bay Area,OpsMx
+-11.647068,49.65595,5,"Mobile Apps, Social Media",Bay Area,Bearahand.com
+2.778848,-14.91595,5,"Data Center Automation, Developer Tools, Machine Learning, Natural Language Processing, Predictive Analytics",Bay Area,AutonomIQ
+38.576138,19.23153,4,"Health Care, Hospital",New York,Droice Labs
+-45.49273,-2.2943597,2,"Hospitality, Machine Learning, Organic Food, Restaurants, Robotics",Los Angeles,Ono Food Co.
+23.567862,0.4415791,5,"Computer Vision, Sensor",Bay Area,Zensors
+-45.829445,-2.1562345,4,"Analytics, Big Data, Insurance, InsurTech, Machine Learning",New York,Kalepa
+26.596262,-0.78906935,5,"Analytics, Cloud Computing, Field-Programmable Gate Array (FPGA), FinTech, Machine Learning, Natural Language Processing, Text Analytics",Bay Area,SumUp Analytics
+-22.29252,-34.058983,5,"Analytics, Career Planning, Human Resources, Information Technology, Predictive Analytics, Recruiting",Bay Area,Knottr
+-28.360666,8.880279,5,"B2B, Business Intelligence, Machine Learning, SaaS",Bay Area,Obviously AI
+-28.742414,27.529335,5,"Sales, Software",Bay Area,Avoma
+-30.909128,28.57075,5,"Cyber Security, Network Security, Security",Bay Area,RedMarlin
+-45.815613,-2.1572626,4,"Software, Speech Recognition",New York,OTO Systems Inc.
+3.3572826,-15.8073015,5,"Cycling, Outdoors, Personalization, Sports, Wellness",Bay Area,WILD AI
+-17.876986,-28.737455,4,"Machine Learning, Market Research, Software",New York,Helixa Inc.
+-22.418938,-34.32271,5,"Information Technology, Internet, Recruiting",Bay Area,Rocket
+-31.8717,25.76602,5,"Computer Vision, E-Commerce, Logistics, Machine Learning, Robotics, Software, Warehousing",Bay Area,Nimble Robotics
+6.671384,26.614408,5,Information Technology,Bay Area,Supervisely
+11.57938,-46.320076,5,"Banking, FinTech, Intelligent Systems, Machine Learning, Mobile Payments, Payments, Retail, Risk Management, Sensor",Bay Area,Deep Labs
+-11.44041,48.46838,4,"Banking, Finance, Predictive Analytics",New York,KapitalWise
+11.838342,-50.87323,5,"Computer, Software",Bay Area,Sonia Labs
+-45.993134,-1.0785384,5,"Financial Services, Machine Learning, Retirement",Bay Area,Mason Finance
+25.164967,-23.201294,5,"Apps, Identity Management, Machine Learning",Bay Area,Smile Identity
+-32.042686,27.858335,5,"Infrastructure, Internet of Things, Machine Learning",Bay Area,Edgeworx
+-16.00238,-27.15538,5,"Consumer Electronics, Electronics, Hardware, Information Technology",Bay Area,Vimaan Robotics
+9.2095175,4.698581,5,"Computer, Computer Vision, Software",Bay Area,ZenScreen
+2.5010557,-14.51637,4,"Analytics, FinTech, Machine Learning, Natural Language Processing, SaaS",New York,Alkymi
+-16.013117,-27.170046,5,"Natural Language Processing, SaaS, Software",Bay Area,Veamly
+-45.7178,-1.641586,4,"Augmented Reality, Computer Vision, E-Commerce, Internet of Things, Machine Learning, Natural Language Processing, Product Management, Virtual Reality",New York,VisionX
+10.627957,8.5192375,4,"Intelligent Systems, Machine Learning, Manufacturing, Service Industry",New York,DeepHow
+23.670286,0.78215444,5,"CRM, Machine Learning, Sales, Sales Automation",Bay Area,Autobound
+-26.869251,7.2594757,5,"Enterprise Software, SaaS",Bay Area,DeckRobot
+-23.095554,-34.2548,5,"Banking, Blockchain, Finance, Financial Services, FinTech, Machine Learning, Mobile Payments, Payments, Predictive Analytics, Sharing Economy",Bay Area,Teller.
+27.056244,-1.0114789,5,"Dating, Mobile Apps, Sex Tech",Bay Area,Fantasy
+-42.33819,-5.003923,4,"Machine Learning, Marketing",New York,Shopnostic.com
+5.0288267,26.871214,5,"Enterprise Software, Natural Language Processing, SaaS, Virtual Assistant",Bay Area,Voix Ai
+11.702071,-50.298866,4,"Computer Vision, Machine Learning, Real Estate",New York,Foxy AI
+-23.18194,-35.16957,2,"Blockchain, Brand Marketing, Computer Vision, E-Commerce Platforms, Image Recognition, Machine Learning, Marketplace, Mobile Apps, Social Media Marketing",Los Angeles,FLATLAY
+6.17403,6.3895483,3,"Machine Learning, SaaS, Software",Boston,Marlo
+11.938475,-51.95328,4,"Beauty, Predictive Analytics, SaaS, Software",New York,Cherry Pick
+-10.995002,-1.8529035,5,"Air Transportation, Transportation",Bay Area,Instalocate
+42.961216,15.561386,5,Robotics,Bay Area,Stocked Robotics
+-11.218796,46.362152,4,"Collaboration, Customer Service, Data Integration, Data Storage, Information Services, Information Technology, Machine Learning, Messaging, SaaS",New York,Woveon
+40.38787,18.063698,5,"3D Technology, Data Visualization, Machine Learning, Oil and Gas, SaaS",Bay Area,Ondaka
+-46.622135,-1.3682141,5,"Augmented Reality, Autonomous Vehicles, Computer Vision, Drones, Hardware, Machine Learning, Robotics, Sensor, Virtual Reality",Bay Area,DreamVu
+3.1405587,-16.11401,5,"Agriculture, Computer Vision, Livestock",Bay Area,Cattle Care
+-3.95276,2.1418097,5,"Analytics, Business Intelligence, Developer Platform, Machine Learning, Marketing Automation, SaaS, Social CRM",Bay Area,Weavr Inc.
+-11.087329,48.84719,4,"Analytics, Finance, Financial Services, Machine Learning",New York,Alpha Vertex
+13.730176,5.566407,5,"B2B, Enterprise Software, Health Care, Hospital, Machine Learning, mHealth, Personal Health, SaaS",Bay Area,Salusive Health
+-17.88962,-28.742857,5,"Analytics, Financial Services, Information Technology",Bay Area,Trace
+23.540401,0.50439495,5,"E-Commerce, Robotics",Bay Area,Ambidextrous
+-21.62036,-30.677538,5,"Banking, Insurance, Machine Learning, Messaging, Natural Language Processing",Bay Area,Elafris
+-24.406723,-37.80571,4,"B2B, Financial Services, FinTech, Machine Learning, Marketplace, Recruiting, Software",New York,Fintros
+11.696078,-50.512535,5,Information Technology,Bay Area,Datasaur
+8.866289,4.6943645,4,"Big Data, Business Intelligence, Location Based Services",New York,Topos
+-11.425358,48.452408,4,"B2B, CRM, Machine Learning, SaaS, Social CRM, Social Network",New York,SAM.AI
+-10.81652,-1.9468604,5,"Railroad, Transportation",Bay Area,Unsupervised AI
+17.476557,3.6546578,3,"AgTech, Environmental Engineering, Information Technology, Machine Learning, Robotics",Boston,AdaViv
+-11.353577,49.628662,5,"Developer Platform, Developer Tools",Bay Area,Deeplearning.ai
+13.190534,7.475471,5,"Information Technology, Machine Learning, Neuroscience, SaaS",Bay Area,Flux
+11.793813,-48.583824,4,"Big Data, Data Mining, Data Visualization, Insurance, Machine Learning, Software Engineering",New York,Sigmoidal LLC
+-32.196114,28.444868,4,Video Editing,New York,TRASH
+11.84707,-47.15228,5,"Internet of Things, Machine Learning, Security",Bay Area,Sentry
+2.3224883,-14.52972,5,Artificial Intelligence,Bay Area,Huddl
+11.716604,-51.70655,4,"Banking, Financial Services, FinTech, Information Technology, Lending, Machine Learning, Marketplace",New York,Community Capital Technology
+-11.775533,49.12143,5,"Analytics, Business Intelligence, Computer Vision, Enterprise Software, Logistics, Machine Learning, Manufacturing, Video",Bay Area,Invisible AI
+44.399734,14.333815,5,"Financial Services, FinTech, Health Care, Information Technology, Personal Finance, Personal Health",Bay Area,She's Well
+-46.480927,-1.5860918,5,"Machine Learning, Speech Recognition",Bay Area,Sonix (sonix.ai)
+21.360998,1.9578594,5,"Analytics, Software",Bay Area,Encounter AI
+-12.465843,43.829147,5,"Augmented Reality, Computer Vision, Enterprise Software, Internet of Things, Machine Learning, Natural Language Processing, Software",Bay Area,Tacit
+24.982124,-22.928892,5,"Analytics, Big Data, CRM, Information Technology, Internet of Things",Bay Area,Gamma Networks
+-31.980145,27.902746,5,"Computer, Data Center, Infrastructure, Machine Learning, Software",Bay Area,Hyperpilot
+11.948989,-46.63666,5,"Information Technology, Logistics, Machine Learning, Natural Language Processing, Software",Bay Area,RPA Labs
+44.080807,14.322805,4,"Analytics, Information Technology",New York,605
+-34.61381,27.730888,5,"3D Technology, Information Technology",Bay Area,Asteroid Technologies
+-45.51326,-2.271883,5,"Apps, Augmented Reality, Photo Sharing, Social Network",Bay Area,Polygram
+41.225636,17.065313,5,"Analytics, Information Technology, Telecommunications",Bay Area,Spext
+-46.480923,-1.5860925,4,"EdTech, Education, SaaS",New York,Ahura AI
+-11.3097105,-2.210517,5,"Big Data, Machine Learning, Software",Bay Area,B-Yond
+7.2003427,26.201942,5,"CRM, Enterprise Software, Information Technology, Machine Learning, Natural Language Processing, SaaS, Sales Automation, Software",Bay Area,Tribyl
+11.794372,-48.63348,4,"Information Technology, Real Estate",New York,SquarePlan
+3.1294038,-15.114588,2,"Advertising, Audio, Augmented Reality, Brand Marketing, Machine Learning, Social Media, Software, Video",Los Angeles,Fuse.It
+-27.491549,8.287653,5,"Food and Beverage, Industrial Automation, Retail",Bay Area,Botrista Technology
+-11.782995,48.987534,5,Health Care,Bay Area,XP Health
+12.415818,3.0376737,3,"Human Computer Interaction, Machine Learning, Natural Language Processing",Boston,"VUI, Inc."
+-45.614746,-2.0197687,5,Artificial Intelligence,Bay Area,NeuroTags
+31.101395,24.417187,4,"Augmented Reality, Hardware, Internet of Things, Machine Learning, Wearables",New York,Etho Inc.
+-9.751163,43.40021,5,"Cloud Computing, Cloud Data Services, Information Technology, Software",Bay Area,Decision Engines
+-8.719694,-1.4685428,5,"Machine Learning, Mechanical Engineering, Professional Services, Robotics",Bay Area,Zippy.ai
+38.18235,19.520533,0,Health Care,Austin,ClosedLoop.ai
+5.443754,22.921877,5,"FinTech, Information Technology, Insurance, Internet, Software",Bay Area,Tint.ai
+24.91842,-23.505741,4,"Big Data, Health Care, Machine Learning, Natural Language Processing",New York,Agamon
+2.912799,-14.801039,5,"Analytics, Renewable Energy, Software",Bay Area,Ensemble Energy
+25.779875,-26.271935,5,"Hospitality, Mobile, Personalization, Travel",Bay Area,SwayPay
+-43.821167,-4.572706,5,"Computer, Industrial Automation, Information Technology, Internet, Manufacturing",Bay Area,Lincode Labs
+21.791014,-25.409634,5,"Food and Beverage, Hospitality, Marketplace, SaaS, Software",Bay Area,Tyme
+-43.12281,-3.5601008,5,"Big Data, Machine Learning, SaaS",Bay Area,Optimizing Mind
+13.863678,5.5782833,5,"Government, Marketplace, Procurement",Bay Area,Social Glass
+9.239883,4.6571817,5,"Computer, Employment, Software",Bay Area,Spot
+27.045675,-1.0061561,3,"Assistive Technology, Communication Hardware, Health Care, Internet of Things, Machine Learning, Robotics",Boston,Loro co.
+-11.461884,48.47106,5,"Enterprise Software, Financial Services, FinTech, SaaS",Bay Area,Conversation.one
+-43.989338,-4.2798824,5,"Internet, Machine Learning, Marketing, Recruiting",Bay Area,Kriya AI
+24.34122,0.2872897,5,"Information Technology, Internet",Bay Area,Flinkhub
+26.420671,-28.325603,5,"Computer Vision, Digital Marketing, Email Marketing, Machine Learning, Video",Bay Area,Playable
+32.107594,23.790342,5,Internet,Bay Area,StackRaft
+12.048097,-51.766624,4,"Computer Vision, E-Commerce, Fashion, Media and Entertainment, Software, TV",New York,Oyper
+-33.92121,27.867214,4,"Big Data, E-Commerce, SaaS",New York,BuyWith
+8.973095,4.5546117,4,"Big Data, Clinical Trials, Enterprise, Enterprise Software, Health Care, Machine Learning, Pharmaceutical",New York,Intelligencia
+2.6752286,-15.718612,5,"Enterprise Software, Software",Bay Area,Revere Intelligence
+2.4293768,-13.165896,3,"Health Care, Information Technology, Internet of Things, Software",Boston,Daytoday Health
+31.566084,23.446909,5,"Information Technology, Internet, Machine Learning, Messaging, Software",Bay Area,VoiceMe.AI
+-7.7296977,-1.2431419,5,"Big Data, FinTech",Bay Area,6figr.com
+-26.876743,7.2528124,5,"Advertising, Digital Marketing, Marketing, Software, Video",Bay Area,Acuity.AI
+11.699898,-51.665855,4,"Child Care, CivicTech, Enterprise Applications, Enterprise Software, GovTech, Machine Learning, Mobile, Predictive Analytics, Software",New York,Casebook PBC
+-32.94156,27.784405,5,"Machine Learning, Software",Bay Area,Machine Box
+-44.28277,-4.509083,5,"Automotive, Autonomous Vehicles, Big Data, Fleet Management, Logistics, Supply Chain Management",Bay Area,SafeMode
+3.3591423,-15.511084,5,"Analytics, CRM, Information Technology",Bay Area,Woflow
+-26.873762,7.25678,5,"Cloud Computing, Industrial Automation, Manufacturing",Bay Area,"Oqton, Inc"
+-32.12293,28.424702,5,"Machine Learning, Robotics",Bay Area,Duality
+8.915828,4.5901365,5,Manufacturing,Bay Area,DinoPlusAI
+-31.212574,28.197397,5,"E-Commerce, Fashion, Internet of Things, iOS, Machine Learning, Search Engine",Bay Area,Qury
+-32.044575,27.8573,5,"Analytics, Machine Learning, Natural Language Processing, Professional Networking, Software, Software Engineering",Bay Area,sourcerer.io
+-26.78858,7.3666496,5,"CRM, Information Technology, Internet",Bay Area,Marax AI
+-14.787301,-3.6898289,5,"Analytics, Big Data, Legal, Machine Learning, Natural Language Processing, Software",Bay Area,ClearLaw
+25.91072,-27.162964,5,"Big Data, Commercial Real Estate, Document Management, Enterprise Software, Intelligent Systems, Machine Learning, Software",Bay Area,ADEx AI
+24.34292,0.28943402,5,"Construction, Internet of Things, Machine Learning, Robotics",Bay Area,Formdwell Robotics
+18.022028,3.6222816,5,"Consumer Software, Information Technology, Innovation Management, Intelligent Systems, Machine Learning, Natural Language Processing, Product Design, Product Research, Software Engineering",Bay Area,Milkinside
+21.188469,-18.967571,2,"Document Management, Document Preparation, Legal, Software",Los Angeles,Documate
+23.670145,0.782152,4,Travel,New York,TRILL Travel
+12.414409,3.037107,5,"Health Care, Software, Wellness",Bay Area,Elyse
+-23.094944,-34.25082,4,"Big Data, Information Technology, Social Media, Video",New York,ViewX
+-20.390385,-27.989466,0,"Association, Big Data, Government, Information Technology, Machine Learning, Non Profit",Austin,Esper
+-21.1944,-30.814823,5,"Information Technology, Machine Learning, Messaging, Software, Travel",Bay Area,Akia
+-21.04209,-22.39999,3,"Computer, Information Technology, Software",Boston,Coalesce.ai
+13.52677,5.6690173,5,"Banking, Big Data, E-Commerce, Financial Services, Predictive Analytics",Bay Area,Argoid
+-21.18512,-30.84462,5,"Education, Information Technology, Machine Learning, Robotics, Software",Bay Area,OnSpecta
+-11.36517,46.171913,5,"CleanTech, Machine Learning, Renewable Energy, Software",Bay Area,Station A
+-46.11336,-0.95663404,5,"Big Data, Internet, Machine Learning, Mobile, Neuroscience, Software, Software Engineering, UX Design, Virtual Reality",Bay Area,Celerative
+-26.873524,7.256566,4,"Data Visualization, E-Commerce, Retail",New York,ChatQuery
+40.503517,17.955538,2,"Big Data, Biotechnology, Fitness, Genetics, Health Diagnostics, Nutrition, Personal Health",Los Angeles,Caligenix
+-6.399749,-1.1682801,5,"Automotive, Autonomous Vehicles, Big Data, Computer Vision, Information Technology, Machine Learning, Mapping Services, Software, Transportation",Bay Area,Nueevo
+26.510235,-0.74423957,5,"Autonomous Vehicles, Blockchain, Cryptocurrency, Drones, Internet of Things, Machine Learning, Robotics",Bay Area,Synapse AI
+-16.018667,-27.177393,5,"Education, Health Care, Internet",Bay Area,Palifer
+11.957783,-49.90365,5,"Augmented Reality, E-Learning, Machine Learning, Music, Software, Virtual Reality",Bay Area,Tribe XR
+24.6419,-23.514832,4,"Automotive, Information Technology, Machine Learning",New York,"Alpha Drive, INC"
+4.394628,27.851246,4,"Apps, Internet, Machine Learning, Private Social Networking, Social Media, Social Network",New York,LYK Inc.
+5.831767,10.754129,5,"Collaboration, Enterprise Software",Bay Area,Telos.ai
+40.768456,17.44073,5,"Analytics, Gaming, Software, Video",Bay Area,Sizzle
+-11.63085,48.605125,5,"Machine Learning, Real Estate",Bay Area,idevelop.city
+-46.376625,-1.7191635,5,"Mobile, Natural Language Processing, Software, Speech Recognition",Bay Area,wordly
+32.96259,23.097208,5,"Information Services, Information Technology",Bay Area,Atlas AI
+11.657015,-46.980892,5,"Advertising, Analytics, Content, Graphic Design, Information Technology, Personalization, Predictive Analytics",Bay Area,Omneky
+21.382172,1.9478565,5,"Developer APIs, Machine Learning, Outsourcing",Bay Area,Apres
+-14.597362,-3.209568,5,"Analytics, B2B, Business Intelligence, Computer Vision, Consumer, Data Visualization, Internet of Things, Machine Learning, Predictive Analytics, Software",Bay Area,Dori Incorporated
+24.475939,-23.286163,5,"Financial Services, Information Technology",Bay Area,Odetta
+25.838137,-26.470192,5,"Blockchain, Information Technology, Software",Bay Area,IoTBlock
+31.547058,23.962528,5,"Finance, FinTech, Freelance",Bay Area,Stoovo
+4.355266,21.083708,2,"Legal, Marketing, Marketing Automation, Natural Language Processing, Politics",Los Angeles,CivicFeed
+3.5577443,26.37541,4,"Analytics, Cryptocurrency, Financial Services, FinTech, Machine Learning, Software",New York,Floating Point Group
+-30.549276,26.545156,5,"Biotechnology, Machine Learning",Bay Area,VastBiome
+38.623367,19.194206,5,"Big Data, E-Commerce",Bay Area,Giftpack
+21.762888,-22.962973,4,"Computer Vision, Information Technology, Machine Learning, Mobile Apps, Software",New York,PackageX
+9.308863,-45.47131,4,"E-Commerce, Image Recognition, Information Technology, Machine Learning, Predictive Analytics, Software",New York,Jewel ML
+9.311629,-45.47076,4,"Big Data, Industrial Automation, Machine Learning",New York,Blackbox AI
+-45.717205,-1.6454535,5,"Internet of Things, Publishing",Bay Area,Pulse Reader
+4.47679,27.317795,5,"E-Commerce, Location Based Services, Travel",Bay Area,SmartNomad
+-25.250368,6.7444067,5,"Hardware, Human Computer Interaction, Neuroscience, Software",Bay Area,Metabrain
+-15.469311,-25.261902,5,"Internet, Machine Learning, Natural Language Processing, Software",Bay Area,Qokka
+7.759674,6.5904,5,"Advertising, E-Commerce, Information Technology, Marketing, Software",Bay Area,Prazely
+-11.297507,46.304604,5,"Infrastructure, Machine Learning",Bay Area,Sewer AI
+7.943339,8.459862,2,Music,Los Angeles,Super Hi-Fi
+25.488316,-25.36691,4,"Content Marketing, Marketplace",New York,Welcome.AI
+11.621481,-46.473495,5,"Information Technology, Machine Learning",Bay Area,Draup
+11.265422,2.5501928,5,"B2B, Data Mining, Human Resources, Information Technology, Machine Learning, Recruiting, Sales Automation, Small and Medium Businesses",Bay Area,"Bevov, Inc"
+7.2210054,7.389975,3,"Asset Management, Machine Learning, Predictive Analytics, Software, Water",Boston,VODA.ai
+-8.338319,-1.2444267,5,"CRM, SaaS, Sales, Sales Automation",Bay Area,Refresh AI
+11.682789,-48.7358,4,Travel,New York,DriftPilot
+2.7586224,22.08997,3,"Computer Vision, Security, Software",Boston,solo sciences
+-11.7694645,49.133488,2,"Big Data, Cloud Data Services, Data Mining, Enterprise Applications, Financial Services, Intelligent Systems, Machine Learning, Market Research, Non Profit",Los Angeles,Grantey
+-3.9564762,2.1659253,5,Software,Bay Area,include.ai
+-15.455409,-25.316067,5,"Information Technology, Productivity Tools",Bay Area,Verbz
+-31.95181,28.315657,5,"Biotechnology, Health Care",Bay Area,Rubedo Life Sciences
+2.7587633,22.090158,5,"Art, Content, Information Technology, Internet, Media and Entertainment, Music, Search Engine, Software, Virtual Reality",Bay Area,TeRra
+5.2979503,20.59622,5,"Enterprise Software, Information Technology, Legal Tech, Natural Language Processing, SaaS, Software",Bay Area,PatentPal
+11.95974,-46.866158,5,"3D Printing, Autonomous Vehicles, Consumer Electronics, Drones, Hardware, Manufacturing, Robotics, SaaS, Wearables",Bay Area,Make
+21.483295,1.8615679,0,"Enterprise Software, Health Care, Machine Learning, Medical, Predictive Analytics, SaaS, Software",Austin,XELPHAhealth
+31.140818,23.597883,5,"Cyber Security, Developer APIs, Enterprise Software, FinTech, Health Care, Machine Learning, SaaS",Bay Area,Lattice Security
+2.7584143,22.089426,5,"AgTech, Cannabis, Internet of Things, Machine Learning, SaaS",Bay Area,Vorga
+9.31082,-45.4713,5,"Blockchain, Energy Efficiency, Logistics",Bay Area,Fr8 Network
+-45.93138,-1.1749294,5,"Banking, Crowdfunding, Financial Services, Machine Learning",Bay Area,LoanScan
+25.91472,-27.169117,5,"Big Data, Natural Language Processing, Semantic Search",Bay Area,Miso
+20.754398,1.961825,4,"Analytics, Data Integration, EdTech, Education, Machine Learning, Search Engine",New York,Golondrix
+39.163597,18.78067,5,"3D Technology, Fashion, Machine Learning, Retail Technology",Bay Area,TAILORNOVA
+2.759192,22.090677,5,"Communications Infrastructure, Infrastructure, Machine Learning, Sensor",Bay Area,Aware
+-24.340416,-37.66663,5,"Apps, Information Technology, Internet of Things, Machine Learning",Bay Area,Blueocean.ai
+-20.401012,-27.964561,4,Beauty,New York,Blue Marble
+-21.469261,-31.287304,5,"Big Data, Cloud Infrastructure, Information Technology, Internet, Machine Learning, Software",Bay Area,Elementl
+-10.835891,46.193645,5,Machine Learning,Bay Area,BayesTree Intelligence Inc
+21.815817,-25.407545,5,"Analytics, Banking, Financial Services, Information Technology",Bay Area,Fintel Labs
+-23.564302,-36.02556,5,"Energy, Energy Management, Small and Medium Businesses, Virtual Assistant",Bay Area,pear.ai
+-14.633803,-3.6253102,5,"Information Technology, SaaS, Software",Bay Area,"eKryp, Inc"
+-5.8885665,-1.3818433,5,"Apps, Computer Vision, Facial Recognition, Mobile, Mobile Apps, Security, Software",Bay Area,miiCloud
+3.1030884,-16.106815,5,"Big Data, Education, Information Technology, Machine Learning",Bay Area,Dataland
+30.20441,24.745207,4,"Customer Service, Messaging, Natural Language Processing, Sales",New York,Stryng
+9.305283,-45.471954,4,"Big Data, Commercial Real Estate, Data Visualization, Geospatial, Machine Learning, Predictive Analytics, Real Estate",New York,Foresite.ai
+-26.769163,7.3675694,5,"Construction, Machine Learning, Predictive Analytics, Software",Bay Area,Bldbox
+4.379876,27.415302,5,"CRM, Enterprise Software, Information Technology, Internet, Machine Learning, SaaS, Software",Bay Area,Vivun Inc
+-10.656076,43.86481,5,"Digital Marketing, Marketing Automation, Marketplace, Software",Bay Area,Botmakers
+-14.510699,-3.3192508,4,"Brand Marketing, Digital Marketing, Machine Learning, Social Media, Social Media Advertising, Social Media Marketing",New York,Smartfluence
+23.234186,0.80125594,2,"SaaS, Sports",Los Angeles,Creative Bot
+18.026325,3.6128433,4,"E-Commerce, Information Technology, Internet, Software",New York,Monir
+20.757223,1.9658574,5,"Machine Learning, Sensor, Software",Bay Area,"Rokio, Inc."
+-6.6759067,-1.2236974,5,"Big Data, Information Technology, Machine Learning, Robotics, Software",Bay Area,Archie.AI
+-18.608103,-23.706903,5,"Information Technology, Mobile, Software",Bay Area,Traform
+-24.163248,7.2914987,3,"Human Resources, Machine Learning, Natural Language Processing, Podcast",Boston,Emtropy Labs
+-25.270533,6.7480836,5,"Information Technology, SaaS, Software",Bay Area,Odus
+44.39858,14.453638,5,"Industrial Automation, Internet, Internet of Things, Natural Language Processing, Smart Home, Speech Recognition",Bay Area,Speak To IoT
+-28.322392,8.878159,4,"Blockchain, Content Creators, Content Marketing, Digital Marketing, Digital Media, Outsourcing, Web Apps, Web Design, Web Development",New York,Iyanu
+-6.104265,-1.4308052,5,"Automotive, Autonomous Vehicles, Computer Vision, Drones, Embedded Systems, Robotics",Bay Area,XOTAR
+-8.405051,-3.4331079,2,"Clean Energy, Construction, Enterprise Software, Facilities Support Services, GreenTech, Home Services, Location Based Services, Machine Learning, Property Management, Rental Property, SaaS, Service Industry, Software",Los Angeles,Field Complete
+-21.258589,-30.408558,0,"Cloud Data Services, Data Center, Information Technology, Machine Learning",Austin,Qoor
+-3.9527476,2.1418,4,"Child Care, Elder Care, Housekeeping Service, Machine Learning, Marketplace, Service Industry, Wellness",New York,Apiari
+-45.82257,-2.1569014,5,Health Care,Bay Area,Dosis
+9.30909,-45.46974,5,"Big Data, Developer APIs, Developer Platform, Developer Tools, Gaming, Machine Learning, Mobile, Software, Software Engineering",Bay Area,Gyroscope Software
+5.612798,22.04504,5,"FinTech, Insurance, InsurTech, Machine Learning",Bay Area,InsureLife.io
+21.537533,-23.081934,5,"Audio, Document Management, Media and Entertainment, Video",Bay Area,Simon Says
+21.733055,-22.958614,5,"Advertising, Financial Services, Machine Learning, Marketplace",Bay Area,Aquila Services Inc.
+5.2930813,20.597696,5,"Image Recognition, Internet, Software",Bay Area,IAMBOT Inc.
+25.367142,-24.867296,5,"Health Care, Internet",Bay Area,DataThinker AI
+7.223055,7.389304,5,"3D Printing, Augmented Reality, Drones, Product Design, Robotics, Software, Virtual Reality",Bay Area,Activa Inc
+25.495806,-25.341793,5,"Big Data, Internet, Machine Learning, SaaS, Software",Bay Area,FUND:THIS
+1.6443633,18.773422,4,"Information Technology, Messaging, Natural Language Processing, Virtual Assistant",New York,Aiko AI
+-27.864794,8.233173,5,"Information Technology, Machine Learning, Sales Automation",Bay Area,Inversation
+25.495464,-25.34383,5,"Big Data, Fashion, Logistics, Machine Learning, Retail, Retail Technology",Bay Area,Gyfted
+21.517439,1.7966549,5,"Advertising Platforms, Augmented Reality, Blockchain, Event Management, Information Technology, Machine Learning, Meeting Software, Messaging, Mobile Advertising, Professional Networking, Social Network, Virtual Reality",Bay Area,Popvue
+1.7029102,18.834929,2,Biotechnology,Los Angeles,Verdant AI
+-27.791727,8.339607,5,"3D Printing, Autonomous Vehicles, Delivery, Electric Vehicle, Machine Learning, Robotics",Bay Area,Pixmoving
+12.0097275,-50.49546,5,"Machine Learning, Retail Technology",Bay Area,"YesPlz, Inc."
+-34.792572,27.561302,5,Health Care,Bay Area,Merit.ai
+6.2850986,22.459988,4,"Information Services, Information Technology, Machine Learning, Software",New York,Propertymate
+26.366606,-28.175009,4,Information Technology,New York,Context Insights
+13.88088,6.1708975,5,"Insurance, Machine Learning",Bay Area,Resure Technology
+-8.564631,-1.9046726,5,"Consumer Electronics, Intelligent Systems, Mobile Apps, Software",Bay Area,Observant AI
+11.866581,-49.39813,5,"Machine Learning, Productivity Tools, Software",Bay Area,Move 37
+8.93448,4.5756636,3,"Enterprise Software, Human Resources, Software",Boston,AskHR
+41.68396,16.666044,5,Artificial Intelligence,Bay Area,Nestor
+-14.529341,-3.2747786,5,"Agriculture, AgTech, CleanTech, Farming, Machine Learning, Water",Bay Area,ConserWater Technologies
+-17.931505,-28.757387,2,"Analytics, Gaming, Information Technology",Los Angeles,Embody Digital
+40.075287,17.793007,5,"Collaboration, Enterprise Applications, Internet, Machine Learning, Messaging, SaaS, Video Conferencing",Bay Area,Unmeeting
+32.08119,23.711885,5,"Analytics, Business Intelligence, Data Mining, Intelligent Systems, Machine Learning, Predictive Analytics, Software",Bay Area,Tresl
+-11.116785,45.885254,4,"Big Data, Computer Vision, FinTech, Health Care, Natural Language Processing",New York,GenoNova
+38.623524,19.19593,0,"Big Data, Blockchain, Construction, Logistics, Machine Learning, Marketplace, Predictive Analytics, SaaS, Supply Chain Management",Austin,BuyChain
+13.785746,5.5604677,4,Insurance,New York,Harbor.ai
+-14.941787,-3.182433,5,"Digital Marketing, Information Technology, Marketing, Marketing Automation, Marketplace, Messaging, Mobile, Mobile Apps, Sales",Bay Area,Neural Edge
+17.712067,3.1450698,5,"Computer Vision, Fitness, Machine Learning, Sports, Training, Wellness",Bay Area,Kinima
+21.221523,1.4828823,4,"Computer Vision, Drones, Geospatial, Machine Learning",New York,TaQadam
+5.673979,11.102084,5,"Drones, Robotics, Security",Bay Area,AeroShield
+2.0478406,-14.38156,5,"Information Technology, Machine Learning, Risk Management",Bay Area,Apical Technology
+11.7165985,-51.706543,5,"Construction, Machine Learning, Natural Language Processing, Virtual Assistant",Bay Area,nyfty.ai
+-20.398813,-27.967962,4,"Information Technology, Machine Learning, SaaS, Software",New York,Skyl.ai
+-15.430913,-25.48658,5,Health Care,Bay Area,Diagnoss
+-28.846525,27.535986,2,"Mobile, Personal Health, Wellness",Los Angeles,Bloom AI
+-8.409653,-3.415464,4,"Analytics, B2B, Business Intelligence, Machine Learning, Predictive Analytics, SaaS",New York,Repetere
+24.593172,-23.487982,4,"Analytics, Big Data, Consumer Electronics, Information Technology, Machine Learning, Software",New York,ViSR
+-30.582727,26.75962,2,"Machine Learning, Natural Language Processing, Predictive Analytics, Psychology",Los Angeles,psyML
+21.470871,1.8748553,5,"Health Care, Life Science, Medical Device, SaaS",Bay Area,Pera Labs
+-25.273115,6.749066,5,"Education, Machine Learning, Natural Language Processing, Text Analytics",Bay Area,Tolstoy
+-16.687696,-23.24691,5,"Consumer Software, Fitness, Health Care, Information Technology, Lifestyle, Machine Learning, Nutrition, Sports, Wellness",Bay Area,Fitness Lab Inc
+32.09906,24.05783,5,"Information Services, Information Technology",Bay Area,milk+honey
+-17.828367,-28.712856,5,"Developer Platform, Developer Tools, Machine Learning, SaaS, Software",Bay Area,Atalaya
+43.5982,14.8790865,4,"Financial Services, Hedge Funds, Machine Learning",New York,Alpha Beta Investments LP
+-27.864756,8.23326,5,"Big Data, SaaS",Bay Area,StepFunction.ai
+-3.95195,2.1467385,5,"Information Technology, Machine Learning, Mobile Apps",Bay Area,Tuml
+8.640883,-45.97289,4,"Cyber Security, Information Technology, Security, Software",New York,Simplerity
+26.108402,-27.115065,2,"FinTech, Information Technology, Internet, Machine Learning",Los Angeles,Omnidya
+-32.035538,27.86034,0,"Big Data, FinTech, Lead Generation, Lending, Real Estate",Austin,Likely.ai
+4.3059006,26.836655,4,"Education, Machine Learning, Software, Sports",New York,Texti
+-11.783,48.98748,0,"Cloud Security, Cyber Security, Internet, Machine Learning, SaaS",Austin,"Parassure, Inc."
+-32.977776,27.998112,5,"Consulting, Information Technology, Innovation Management, Management Consulting, Robotics",Bay Area,RPA Officer â¢
+25.08811,-23.006538,0,"Information Technology, Security, Software",Austin,HackNotice
+11.972775,-51.046726,4,"Analytics, Big Data, Marketing",New York,SportsBiz
+-24.260225,-37.503582,5,"Bitcoin, Blockchain, Cryptocurrency, Ethereum, Financial Exchanges, Financial Services, Hedge Funds, Machine Learning, Personal Finance, Software, Stock Exchanges, Trading Platform, Venture Capital, Virtual Currency",Bay Area,Logic0x LLC
+-16.01902,-27.17765,5,"Big Data, Computer, Information Technology, Life Science, Software",Bay Area,SilverAnt
+-10.073269,-1.8950914,4,"3D Printing, Advanced Materials, Computer Vision, Construction, Industrial Automation, Mining, Robotics",New York,Hyperion Robotics
+6.591275,26.646706,5,"CRM, Enterprise Software, Machine Learning, Sales, Sales Automation",Bay Area,Sentia USA
+-22.597477,-34.592167,5,"Analytics, Fitness, Intelligent Systems, Machine Learning, Predictive Analytics, Software, Sports",Bay Area,Silicon Valley Exercise Analytics Inc
+-10.853389,46.250366,5,"Automotive, Machine Learning, Media and Entertainment, Software",Bay Area,Cobalt Industries
+23.78779,0.77966374,4,"Analytics, Big Data, Information Technology, Machine Learning",New York,Scout
+43.07759,15.435227,3,"Big Data, Data Integration, Financial Services, FinTech, Machine Learning, Marketplace, SaaS, Trading Platform",Boston,Keel
+-23.09549,-34.253246,5,"Android, Enterprise Software, iOS, Machine Learning, Mobile, Quality Assurance, SaaS, Software",Bay Area,Apptim
+-33.975243,27.468771,5,"Analytics, Data Center, Language Learning",Bay Area,SORU
+-43.960766,-4.233881,5,"Blockchain, Loyalty Programs, Marketplace, Personalization, Tourism, Travel",Bay Area,"UIQT, Inc."
+-46.71374,-0.9223564,5,"Legal, Machine Learning",Bay Area,LawPal
+-26.748228,7.386531,5,"Asset Management, Financial Services, FinTech, Machine Learning, Wealth Management",Bay Area,rebrain.ai
+25.615913,-25.727129,5,"Machine Learning, Privacy",Bay Area,Acuratio
+-11.087551,46.424038,5,"Analytics, Apps, Health Care, Medical Device",Bay Area,Tredomo
+-20.994854,-22.458067,4,"Commercial Real Estate, Computer Vision, Machine Learning, Real Estate, Retail, Retail Technology",New York,Exteros
+-23.80052,7.3213463,5,"Cyber Security, Internet of Things, Machine Learning, Network Security, Smart Home",Bay Area,pH Networks
+42.6169,15.857071,5,"Apps, Social Media",Bay Area,Timepop Technologies (Vibe app)
+25.546455,-25.356146,5,"Communities, Internet, Mobile, Professional Networking, Social Network",Bay Area,Qminds
+11.719441,-49.404354,3,"Analytics, Information Technology, Internet, Robotics, Software",Boston,Qanairy
+21.55518,-23.069458,5,"Analytics, Business Intelligence, Enterprise Software, Machine Learning, Software Engineering",Bay Area,Mindsight
+27.01614,-0.9887233,5,"Apps, Enterprise, Machine Learning, Private Social Networking, SaaS",Bay Area,RedLINES App Inc.
+-8.391037,-3.5198915,4,"Machine Learning, Natural Language Processing",New York,Paper Digest
+11.852216,-46.498745,0,"E-Commerce Platforms, FinTech, Machine Learning, SaaS",Austin,"The Odyssey Project, Inc."
+-30.624573,26.793686,5,"Information Technology, Machine Learning, Software",Bay Area,ThunderAct
+26.105623,-27.115112,5,"Biometrics, Facial Recognition",Bay Area,Reminis
+-21.686491,-31.196356,5,"Consulting, Information Technology, Software",Bay Area,Move to AI
+-24.162722,7.291348,5,"Machine Learning, Software",Bay Area,Objects.AI
+-8.701325,-1.4967774,5,"Internet of Things, Social Network",Bay Area,TagTalk Inc.
+-44.27681,-4.5718904,5,Health Care,Bay Area,"Curesoft, Inc"
+17.744642,3.1440475,5,"Analytics, Big Data, Information Technology, Internet of Things, iOS, Machine Learning, Mobile Apps",Bay Area,Proton
+3.3591428,-15.511081,4,"Assistive Technology, Enterprise Software, Information Technology, Productivity Tools, Quantified Self, Software",New York,Quantime
+-33.00444,28.01138,5,"Augmented Reality, Big Data, Blockchain, Machine Learning, Management Consulting, Parking, Smart Cities, Virtual Reality",Bay Area,GreenData.IO
+27.005325,-0.9838705,5,"Big Data, Health Care, Information Technology, Medical",Bay Area,DocEcho
+-21.587286,-30.642893,0,"Advertising, Computer Vision, Content Discovery, Machine Learning, Marketing, Media and Entertainment, PaaS, Social Media, Social Media Advertising",Austin,Ploto
+-32.147697,28.432417,5,"Call Center, Enterprise Applications, Speech Recognition, Telecommunications",Bay Area,SMARTCALLS
+-22.58323,-33.61236,2,"Information Technology, Sports",Los Angeles,Athlon.ai
+13.734493,6.1826725,5,"FinTech, Machine Learning, SaaS",Bay Area,DataPi io
+40.10107,17.720232,5,Cyber Security,Bay Area,DotBits
+-11.783001,48.987476,5,Robotics,Bay Area,Olbrain
+-16.014582,-27.17205,5,"CRM, Machine Learning, Sales",Bay Area,SalesX.io
+-11.446567,48.458347,0,"Blockchain, Clinical Trials, Health Care, Information Technology, Machine Learning, Medical, mHealth, Mobile, Software",Austin,knowRX
+2.4241295,-13.136229,4,Information Technology,New York,Ideas Lab
+2.5577748,-15.5505085,4,"Hardware, Internet of Things",New York,Duo AI
+13.414693,5.8973937,5,"Internet of Things, Software",Bay Area,Gesto
+-7.7594337,-1.2288102,4,"Association, Education, Non Profit, Software",New York,AI Now Institute
+-22.593548,-34.590805,3,Machine Learning,Boston,"Jaxon, Inc."
+11.866596,-49.398228,3,"Tourism, Travel",Boston,Viageur
+21.435907,1.5382291,4,"Financial Services, FinTech, Natural Language Processing",New York,FMeasure
+13.41671,5.897993,5,B2B,Bay Area,appliedAI
+4.32945,27.615993,4,"Digital Media, Journalism, Machine Learning",New York,Turing Tribe
+-43.839325,-4.6063924,5,"Accounting, Billing, Blockchain, Enterprise Resource Planning (ERP), FinTech, Fraud Detection, Machine Learning, Payments, SaaS",Bay Area,AIRY9
+25.161594,-0.082274996,4,"Enterprise Software, Industrial Automation, Retail Technology",New York,TDC Fashion
+43.66729,14.960227,5,FinTech,Bay Area,QuantAI
+-15.069493,-3.6208138,5,"Consumer Electronics, Hardware, Robotics, Software",Bay Area,Geppetto
+10.808315,2.450285,5,"E-Learning, EdTech, Education",Bay Area,Think Inc
+-46.621746,-1.3674629,5,"Biotechnology, Health Care, Life Science, Machine Learning, Therapeutics",Bay Area,Odyssey Therapeutics
+-7.7485223,-1.2865502,5,"Information Technology, Messaging",Bay Area,IoT/AI
+-12.563872,43.7235,5,"Human Resources, Machine Learning, SaaS",Bay Area,Herman
+22.101038,-21.606163,5,"Information Technology, Machine Learning",Bay Area,ProPair
+-21.469213,-31.287289,5,"Internet of Things, Machine Learning, Social Network",Bay Area,Spotmi
+30.204275,24.74518,5,"Information Technology, Software",Bay Area,AutonicX
+-10.648676,43.8603,5,"Blockchain, FinTech, Machine Learning, Non Profit, Social Entrepreneurship, Social Impact",Bay Area,Eirium Technologies
+7.275255,26.080868,5,"FinTech, Health Care, InsurTech",Bay Area,Well Advised
+-15.470167,-25.255783,5,"Big Data, Developer APIs",Bay Area,Lexeme
+26.038584,-0.511435,5,"Health Care, Health Diagnostics, Information Technology, Software",Bay Area,Neosona
+20.70904,-21.655283,5,"Analytics, Customer Service, Data Integration, Data Mining, Developer APIs, Information Technology, IT Management, Machine Learning, Predictive Analytics, Software",Bay Area,The AI Company
+8.797128,4.795576,5,"Big Data, Cloud Computing, Cloud Infrastructure, Cloud Management, Cloud Security, Cloud Storage, Consulting, Data Center Automation, Data Integration, Internet of Things, Machine Learning, Software Engineering",Bay Area,Astellent
+-3.954247,2.1029806,5,"Consulting, Email Marketing, Machine Learning",Bay Area,Oxygen AI
+1.8338059,-12.619585,4,"Analytics, Big Data, Cloud Data Services, Data Integration, Data Storage, Machine Learning",New York,Mekl
+2.444844,-15.056829,4,"Biotechnology, Health Care, Software, Telecommunications",New York,Akila Labs Inc
+3.3680763,-15.731883,0,"Big Data, Health Care, Machine Learning, Personal Health, Personalization",Austin,Vytalyx
+-43.891785,-5.697467,3,"Brand Marketing, Business Intelligence, Information Technology, Machine Learning, Marketing, Predictive Analytics, Retail Technology, SaaS, Social Impact",Boston,Because Intelligence
+5.2777686,20.596687,5,Delivery,Bay Area,Tortoise AI
+9.311883,-45.47026,5,"Information Technology, Machine Learning, SaaS, Software",Bay Area,Genie Squad
+7.2214913,7.3909926,5,Artificial Intelligence,Bay Area,CAD It App
+-11.306723,45.97397,2,"Health Care, Information Technology",Los Angeles,Carenodes
+-26.733559,7.3953056,5,"Hospitality, Software, Travel, Virtual Assistant",Bay Area,ConciergeBot
+-16.722565,-23.227097,5,"Developer APIs, Enterprise Software, Machine Learning, SaaS",Bay Area,Kite AI
+-30.598658,26.78191,3,"Education, Human Resources, Information Technology, Machine Learning, Software",Boston,SocialMap
+25.161102,-23.238384,5,"Ediscovery, Leisure, Tourism, Travel",Bay Area,Trvise
+7.2220883,7.3881264,5,"Health Care, Personal Health",Bay Area,Doctor Hazel
+12.010912,-50.497963,0,"Cyber Security, Data Integration, Electronics, Machine Learning, Marine Transportation",Austin,Fathom5
+7.849205,8.261353,4,"Information Technology, Software",New York,AIKIT Digital
+-8.273437,-3.0825422,5,"Big Data, Computer Vision, Image Recognition, Information Technology, Machine Learning",Bay Area,Enigma Pattern Inc.
+2.758949,22.091,4,"Venture Capital, Virtual Assistant",New York,Venture Picker
+-18.61099,-23.704218,5,"Machine Learning, Natural Language Processing, Video",Bay Area,California Communications
+-22.555275,-34.57208,4,"E-Learning, EdTech, Education",New York,Altversity
+-18.71422,-24.129297,5,"Analytics, Computer Vision",Bay Area,Aspiricx
+-27.87506,8.666843,5,"Augmented Reality, Computer Vision, E-Commerce, Machine Learning",Bay Area,Pointshop
+-10.929643,42.125423,5,"Consulting, Social Network",Bay Area,Whosup
+-0.13022237,-12.358098,3,"Collaboration, Virtual Assistant",Boston,RaeNotes
+5.296119,20.594618,5,"Ad Network, Advertising, Advertising Platforms, Machine Learning, SaaS, Software",Bay Area,Trustium
+-43.89291,-5.6963263,5,"Education, Machine Learning, Software",Bay Area,Tarteel
+-15.995205,-27.145525,4,"Meeting Software, Mobile Apps, Productivity Tools",New York,imeetify
+11.951524,-49.82225,0,"Apps, Big Data, Internet, Machine Learning, Mobile Apps",Austin,Mindful
+-32.170937,28.440954,5,"Information Technology, Mobile, Mobile Apps",Bay Area,SublimeAI
+5.2942934,20.594257,5,"Advertising, Analytics, Big Data, Marketing",Bay Area,Adhance.io
+10.640726,8.490263,5,"Information Technology, Security",Bay Area,Forsight
+5.628781,22.445852,4,"Analytics, Artificial Intelligence",New York,Lilius
+-10.665247,43.871326,5,"Fertility, Health Care, Health Diagnostics, Information Technology, Software",Bay Area,Sincere Labs
+9.0985565,4.802448,2,"Content Discovery, Enterprise Software, Film, Internet, Machine Learning, Media and Entertainment, SaaS, TV",Los Angeles,Streamlytics
+-16.697521,-23.239698,2,"Analytics, Information Technology, Internet, Machine Learning, Retail, Robotics, Small and Medium Businesses, Software",Los Angeles,Type W
+21.730837,-22.95682,5,Artificial Intelligence,Bay Area,Toswo
+11.866925,-47.191704,4,"Big Data, Information Technology, Insurance",New York,Benjamin
+-44.00834,-4.269945,5,"Events, Mobile, SaaS, Social Media",Bay Area,Tell Em'
+-15.464465,-25.280968,0,Software,Austin,OsmosisAI
+-15.426692,-25.479631,0,"Big Data, Blockchain, Internet of Things",Austin,Williams Technology Group
+32.123787,23.972425,5,"Consulting, Digital Marketing, Machine Learning, Marketing, Social Media Advertising, Social Media Management, Social Media Marketing, Software",Bay Area,Merakite
+5.617075,22.885508,5,"Enterprise Software, Mobile",Bay Area,Mongrov
+-8.403623,-3.4380934,5,"Analytics, Information Technology",Bay Area,nlightn Technologies Inc
+5.294865,20.595293,4,"Analytics, Machine Learning, Sports, Training",New York,Athlete Training Club
+5.976731,10.499524,5,Blockchain,Bay Area,TuringNet
+-30.58966,26.775248,5,"Information Technology, Machine Learning",Bay Area,Digamma.ai
+-24.162891,7.291426,5,"Accounting, FinTech",Bay Area,"Genial Technology, Inc."
+9.015856,4.549575,4,Artificial Intelligence,New York,Deep Nexus Inc.
+-11.345462,46.03856,4,"Enterprise Software, Machine Learning, SaaS",New York,Pilotship
+5.6067867,22.90829,5,"Marketing, SaaS",Bay Area,Baarei
+5.621513,22.889326,0,"Big Data, Blockchain, Business Intelligence, Enterprise, Human Resources, Machine Learning",Austin,AI4Jobs - Powered by ThisWay
+9.306642,-45.4733,0,"Automotive, Electronics, Information Technology",Austin,Mindtronic AI
+-20.405666,-27.97374,5,"Analytics, Big Data, Cloud Data Services, Data Integration, Machine Learning, Predictive Analytics",Bay Area,myngl.io
+41.224895,17.065958,4,"Machine Learning, PaaS, Software",New York,AI.Reverie
+26.336037,-0.65464395,5,"Human Resources, Internet, Marketplace, Recruiting, SaaS",Bay Area,Skillzilla
+-43.891464,-5.698615,4,"Blockchain, Machine Learning",New York,TraneAi
+11.555836,2.6274867,3,"Analytics, Electronics, Enterprise Software, Human Resources, Information Technology, SaaS, Software",Boston,"Audseb, Inc."
+8.202163,7.604979,5,"Computer Vision, Machine Learning, Software",Bay Area,Kraenion
+4.3986673,27.863808,5,"Business Intelligence, Corporate Training, E-Learning, Enterprise Applications, Human Resources, Machine Learning, Natural Language Processing",Bay Area,"Numly, Inc."
+7.821003,8.197103,5,"Analytics, Apps, Fitness, Machine Learning, Mobile Apps, Software",Bay Area,Ausava Inc.
+-18.610237,-23.70698,4,"Financial Services, Machine Learning, Natural Language Processing",New York,VidaMinds Inc
+21.73787,-22.947397,5,"Android, Cloud Computing, Information Technology, Internet, Internet of Things, iOS, Machine Learning, Mobile, Software",Bay Area,Corporate Central
+-43.81553,-5.9130926,5,"Education, Information Technology, Machine Learning",Bay Area,Discidium Technologies
+-3.9542682,2.1030266,5,"Blockchain, Human Resources, Machine Learning, Recruiting",Bay Area,MatchPoll
+-30.441704,27.36839,4,"Blockchain, Content Creators, Cryptocurrency, Film Distribution, Funding Platform",New York,ephelants360
+5.6215057,22.88094,5,"Apps, Information Technology",Bay Area,Celestek
+18.004555,3.6563327,5,"Blockchain, Machine Learning, Vertical Search",Bay Area,Loop Network
+42.616932,15.857527,5,"Children, Health Care, Wellness",Bay Area,Alea Diagnostics
+9.308285,-45.474014,5,"Consulting, Software",Bay Area,Agave Partners Capital
+-15.4311,-25.485415,5,"Document Management, Information Technology, Legal, Legal Tech",Bay Area,Advobot
+-24.163097,7.291479,4,"Enterprise Software, Machine Learning, Predictive Analytics, SaaS, Sales",New York,BuyerSight
+1.798425,18.939562,5,"Mobile, Software",Bay Area,Flote
+32.112125,24.021677,5,"Education, Information Technology, Software",Bay Area,eBibelot
+19.504143,-24.048332,5,"Augmented Reality, Robotics",Bay Area,TickTock AI
+40.394028,18.061424,2,"Finance, Financial Services, FinTech, Information Technology, Machine Learning, Prediction Markets",Los Angeles,Equilibrium
+-5.964553,-0.96407855,5,"E-Commerce, E-Commerce Platforms, Machine Learning, Personalization",Bay Area,Amber64
+-8.405084,-3.43225,4,"Android, Computer Vision, iOS, Software, Web Development",New York,Reflect Labs
+-24.16349,7.2914786,0,"Big Data, Blockchain, Machine Learning",Austin,DeepHive
+5.9975977,20.774076,5,"Internet, Transportation, Travel",Bay Area,Vegas Jets
+43.201817,15.347978,5,"Automotive, Computer, Consumer Electronics, Information Technology, Messaging, Robotics, Software",Bay Area,DecaSense
+17.774313,3.1481135,5,"B2B, Communities, Human Resources, Internet, Machine Learning, Small and Medium Businesses",Bay Area,meaZr
+-3.9480722,2.1367843,5,"Augmented Reality, Computer Vision, Photography, Social Media, Social Network, Software",Bay Area,DINA
+20.833015,-21.826963,5,"Blockchain, Information Technology, Internet",Bay Area,Transfi
+6.62242,6.919125,5,"Commercial Real Estate, Machine Learning, Predictive Analytics, Real Estate, SaaS",Bay Area,Boulevard Software
+5.4418163,26.839664,0,"Finance, Machine Learning, News, Politics, SaaS, Virtual Currency",Austin,Market Vulture
+-23.181303,-35.166187,4,Health Care,New York,"Artificial Cognition, Inc."
+2.845073,-15.917089,5,"Machine Learning, Speech Recognition",Bay Area,R7 Speech Sciences
+-31.936016,27.953285,5,"Apps, Internet of Things, Machine Learning, Mobile, Natural Language Processing, Robotics",Bay Area,VirtuallyMagic
+4.469378,27.318695,5,"CRM, Information Technology, Software",Bay Area,Conversy
+-5.9645534,-0.96407855,0,"Big Data, Business Intelligence, E-Commerce",Austin,Etailligence
+10.693078,-43.37844,2,"Advertising, Lifestyle, Market Research, Social",Los Angeles,WhatTuDu
+-43.95026,-4.2818513,4,"Analytics, Internet, Machine Learning, Mobile, Mobile Apps",New York,theMind
+-28.620838,27.540094,5,"Biotechnology, Education, FinTech, Machine Learning, Natural Language Processing, Search Engine, Virtual Reality",Bay Area,Sykopomp Industries
+11.708059,-49.818893,5,"Banking, Insurance, Machine Learning, PaaS, Predictive Analytics, Social, Telecommunications",Bay Area,ecosystem.Ai
+-24.681322,-38.364143,2,"Consulting, Data Mining, Data Visualization",Los Angeles,StoryArc
+-23.578714,-36.054817,5,"Health Care, Health Insurance",Bay Area,Explain.Care Inc.
+-24.16343,7.291549,3,"FinTech, Machine Learning",Boston,ThinkerZero
+5.643424,22.594063,4,"Employee Benefits, Human Resources, Natural Language Processing",New York,Aubry
+-18.60702,-23.707075,5,"E-Commerce, Information Technology",Bay Area,Convee.ai
+-15.07535,-3.3411503,2,"Hardware, Machine Learning, Video",Los Angeles,JeVois Inc
+-27.76658,8.376031,2,Artificial Intelligence,Los Angeles,Maai
+11.689848,-50.514626,5,"Blockchain, Human Resources, Machine Learning, PaaS, Personal Branding, Personal Development, Reputation, SaaS, Social Network, Virtual Currency, Wellness",Bay Area,Synctrics
+26.185766,-27.786139,5,"Consumer Electronics, Health Diagnostics, Machine Learning, Medical Device",Bay Area,ThinkBe
+23.778658,0.783034,5,"Machine Learning, SaaS",Bay Area,Surface Owl
+9.229625,4.6611013,5,"Information Technology, Software",Bay Area,Zillion Pitches
+13.258192,5.8493137,5,"Collaboration, Enterprise Software, Meeting Software, SaaS, Unified Communications, Virtual Assistant",Bay Area,izi
+-46.48091,-1.5861235,5,"Big Data, Cloud Data Services, Data Mining, Digital Entertainment, Financial Services, Intelligent Systems, Machine Learning, Predictive Analytics, Stock Exchanges",Bay Area,Elite Tech Apps
+5.341861,26.837807,5,"Advertising, Artificial Intelligence",Bay Area,Asora Inc
+-45.807076,-2.1505234,5,"Big Data, Bitcoin, Blockchain, Cloud Data Services, Cryptocurrency, Data Mining, Data Visualization, Ethereum, Machine Learning",Bay Area,Amulet Platform
+19.825426,-23.951736,5,"Automotive, Big Data, Delivery, Information Technology, Logistics, Software",Bay Area,Skedler
+-24.521393,-38.03442,4,"Corporate Training, Human Resources, Machine Learning, SaaS, Software",New York,Forefront
+-22.297258,-34.0645,5,"Analytics, Software",Bay Area,Simply Stakeholders
+7.2977753,25.994167,5,"Business Development, Content Creators, Machine Learning, Marketing, Product Research, Web Development",Bay Area,todreamalife
+2.4251938,-13.139926,5,"Apps, Information Technology, Mobile Apps",Bay Area,Voice2biz
+25.91389,-27.163982,5,"Advertising, Information Technology, Marketing, Product Design, Software",Bay Area,"Altola, Inc."
+4.4210124,28.042849,5,"Dating, Finance, Machine Learning, Personal Finance, Software",Bay Area,"Optdin, Inc."
+22.28164,1.2356083,4,"Analytics, Compliance, Software, Telecommunications",New York,Pairity
+-21.187517,-30.837475,3,Information Technology,Boston,Hound Software
+10.693813,-43.35266,2,"Audio, Digital Entertainment",Los Angeles,Ground Control
+-10.64781,43.858753,4,"Augmented Reality, Computer Vision, Machine Learning, Mobile",New York,Virtmotion
+30.209835,24.748419,5,"Apps, Consumer Software, Education, Lifestyle, Machine Learning, Parenting, SaaS",Bay Area,Karmic Circles
+17.773212,3.1476064,5,"Big Data, Information Technology",Bay Area,SageDo
+11.379758,6.102666,4,"Analytics, Asset Management, Finance, Financial Services, FinTech, Machine Learning, Risk Management",New York,Applied InvestmentScience
+-10.65262,43.863132,4,"Big Data, Machine Learning",New York,Whisper Mob
+-22.94122,-34.03452,5,"Business Information Systems, Information Technology, Management Information Systems, Software",Bay Area,Machinechat
+11.69112,-48.728146,5,"Retail Technology, SaaS, Social",Bay Area,LookyLoo
+-21.412022,-30.535954,4,"E-Commerce, Information Technology, Messaging",New York,Smalltalk
+-17.835148,-28.716604,5,"Machine Learning, Mobile Apps, SaaS",Bay Area,ArubaAI
+31.708412,23.390696,5,"Internet, Internet of Things",Bay Area,IDYIA
+43.585403,14.862342,2,"Education, Human Resources, Internet",Los Angeles,TitanHire
+-46.376617,-1.7191765,4,"Art, Information Technology, Museums and Historical Sites, Music, Virtual Reality",New York,TeRra VR
+-26.85881,7.261672,5,"Big Data, Information Technology, Software",Bay Area,Listlicious
+2.4770505,-14.527518,4,"Business Intelligence, Finance, Health Care, Life Science, Machine Learning, Predictive Analytics",New York,Prometheus Ax
+-6.6903696,-1.230522,5,Software,Bay Area,Tbd
+-20.59356,-26.764822,4,"Machine Learning, Market Research, Natural Language Processing",New York,Raedan
+-28.435675,8.294893,5,Information Technology,Bay Area,YouTheData
+-11.546214,49.825634,5,"Machine Learning, Politics, Social Media",Bay Area,Caucusbox
+9.310168,-45.470215,5,"Advertising, Artificial Intelligence",Bay Area,advelvet
+-15.061715,-3.6220908,5,"Consulting, Information Technology, Telecommunications",Bay Area,"proUkel, LLC"
+20.815378,-21.786503,5,"Analytics, Big Data, Information Technology, Software",Bay Area,MindWave X
+44.39509,14.460885,5,"Big Data, Human Computer Interaction, Machine Learning",Bay Area,CELEBRIUM LABS
+31.273487,23.558493,4,"Legal, Machine Learning, Natural Language Processing",New York,Curia
+11.556221,2.627817,4,Machine Learning,New York,Deskdrop
+-28.435627,8.2948675,5,"Analytics, Machine Learning, Sports",Bay Area,Kinemai Inc.
+-34.15886,27.474289,5,"CRM, Information Technology, Machine Learning",Bay Area,Validation AI
+43.965797,14.890491,0,"Big Data, Communities, CRM, Health Care, Information Technology, Mobile, Mobile Payments, Software",Austin,I AM Support Care
+-10.667656,43.87399,5,"E-Commerce, Fashion, Machine Learning, Retail",Bay Area,The Reel
+-32.86928,28.236694,4,"Android, Big Data, Human Resources, Information Technology, iOS, Location Based Services, Machine Learning, Messaging, Social Media, Video",New York,Mobihires
+-16.716627,-23.2289,3,Information Technology,Boston,Empiriclee
+21.754658,-22.962774,4,"Apps, Real Estate",New York,Goliath
+3.152009,26.066277,5,"Image Recognition, Machine Learning, Social",Bay Area,Woolah
+-32.006935,27.880325,2,"Intelligent Systems, Machine Learning",Los Angeles,Wounding
+5.29828,20.59708,4,Software,New York,PRIMO AI
+-26.819376,7.3098845,2,"Apps, Information Technology, Machine Learning, Software",Los Angeles,Natively.ai
+3.3243792,-16.118296,5,"Information Technology, News, Publishing",Bay Area,Techie8
+2.5509903,-15.432091,5,"Business Intelligence, Insurance, Machine Learning, Software",Bay Area,RiskDV
+-18.609743,-23.70501,5,"Big Data, E-Commerce, Marketing Automation, Mobile Apps, Social Media",Bay Area,"Growth Media, Inc."
+4.527443,28.664629,5,Artificial Intelligence,Bay Area,Wundr.Ai
+-11.353328,49.62866,5,Machine Learning,Bay Area,QSR AI Research Lab
+-31.953829,28.318935,4,"Analytics, Information Technology, Software",New York,DataScava
+-8.688658,-1.590321,2,Machine Learning,Los Angeles,AiPA
+39.16079,18.783205,2,"Information Technology, Mobile, Mobile Apps",Los Angeles,Metrowise
+2.7586436,22.090042,5,Information Technology,Bay Area,Jayter
+-16.013727,-27.170784,5,"Analytics, Business Intelligence, Cloud Computing, Machine Learning, Market Research, Marketing, Marketing Automation, Predictive Analytics",Bay Area,Fondament Analytica
+-18.595959,-23.71079,5,"Analytics, Big Data, Cloud Data Services, Data Storage, Enterprise Software, Machine Learning",Bay Area,Celestium Computing
+31.439327,23.885494,5,Information Technology,Bay Area,Stealth Mode
+-8.4022045,-3.4458303,5,"Information Technology, Internet",Bay Area,ALLWEONE.COM
+-10.657083,43.865723,4,"Information Technology, Software",New York,MultiplyIQ
+26.509947,-0.74592596,5,"Big Data, SaaS",Bay Area,BodyBlock AI
+2.7589183,22.090303,5,"Consulting, Information Technology",Bay Area,ANewD.ai
+9.310133,-45.47003,0,"Advertising Platforms, Big Data, Retail",Austin,Videosyne
+30.190685,24.728605,4,Education,New York,Aptiq.io
+-24.57454,-38.15951,5,Artificial Intelligence,Bay Area,Rancard Inc.
+-16.712917,-23.230516,5,"Enterprise Software, Information Services, Information Technology, Machine Learning, Marketing, Marketing Automation, Professional Services, SEO",Bay Area,"Discrete Data Solutions, LLC"
+-10.662682,43.86977,5,"Analytics, Beauty, Database, Machine Learning, Marketplace, Media and Entertainment, Personal Health, Social Network, Wellness",Bay Area,ZiM
+-18.59296,-23.713058,5,"Analytics, Machine Learning",Bay Area,"Parkbliss, Inc"
+-32.920773,27.758253,5,Travel,Bay Area,FlightsOnTap
+-10.658418,43.866497,2,"3D Technology, Robotics, Virtual Reality, Web Apps",Los Angeles,Supreme Tech Ether Technology Company
+-9.375115,-1.9836913,4,"Journalism, Natural Language Processing",New York,NewsCracker
+11.946327,-46.937954,4,"Browser Extensions, Content, Machine Learning, News, Predictive Analytics, Productivity Tools, Social News, Software",New York,Nobias
+-16.696999,-23.240725,5,Software,Bay Area,Tier3D
+-7.7609525,-1.219016,5,"Software, Software Engineering",Bay Area,Cognizer
