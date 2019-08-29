@@ -71,7 +71,7 @@ def index():
     plot = create_chart(data, hover_tsne)
     script, div = components(plot)
 
-    return render_template("app_index.html", the_div=div, the_script=script)
+    return render_template("app_index.html", div=div, script=script)
 
 if __name__ == '__main__':
     app.run(port=33507)
