@@ -18,7 +18,7 @@ from bokeh.themes import built_in_themes
 
 app = Flask(__name__)  # create instance of Flask class
 
-embedding = pd.read_csv('/Users/rwmyers/ds/projects/cb_startups/bokeh_df.csv')
+embedding = pd.read_csv('./data/bokeh_df.csv')
     
 def create_hover_tool():
     hover_tsne = """
