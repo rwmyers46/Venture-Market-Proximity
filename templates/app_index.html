@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>AI / ML Startup Competitive Proximity</title>
+    <title>AI / ML Venture Competitive Market Proximity Visualization using Natural Language Processing</title>
     <link href="https://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.css" rel="stylesheet">
     <link href="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.3.4.min.css" rel="stylesheet">
   </head>
   <body>
-    <h2>AI / ML Venture Market Proximity by Topic Distribution</h2>
-
-      <p>  This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. Using data from CrunchBase, NLP was used to combine both the startup's categories and description to establish a numerical market proximity. The visualization provides zoom and hover functionality to display the venture's name and category and explore clusters with higher fidelity.
+    <h1>AI / ML Venture Market Proximity Visualization using NLP</h1>
+      
+      <h3>Overview:</h3>
+      
+      <p>  This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. Using data from Crunchbase, NLP with Vectorization was used establish and plot the relative market proximity of ventures in the dataset from their descriptions. Additional functionality, such as show venture name / category by hoever or view clusters with higher fidelity with zoom, can be accessed from the menu on the visualization's right border.
       </p>
-          
-Data: Startups were filtered for those in the Artificial Intelligence & Machine Learning categories, founded within the past 3 years in the following 5 cities:
+
+      <h3> Process:</h3>
+      <p>By necessity, langauge is inherently precise. Language is blunted by the regional, cultural, and creative variations we humans introduce over time. Thus, the most significant source of error is not dependence upon language itself, but rather on the writers to accurately articulate a venture firm's value proposition. To mitigate variance from inconsistent company descriptions, the stated market categories were added to this descriptive text in the pre-processing phase. Company names and repeated word use were also removed from documents to reduce distortion.
+      </p>
+      <h3>Data:</h3>
+      <p>
+          Startups on Crunchbase were filtered for those in the Artificial Intelligence & Machine Learning categories. All firms were founded within the past 3 years (8/25/2016) in the following 5 cities:
       <ul> 
       <li> San Francisco </li>
       <li> Los Angeles </li>
@@ -19,13 +26,19 @@ Data: Startups were filtered for those in the Artificial Intelligence & Machine 
       <li> Boston </li>
       <li> New York </li>
       </ul>
+      
+      <h3>Technical:</h3>
       <p>
-Technical: The NLP process made use of spaCy, NLTK, CountVectorizer, LDA, T-SNE. The visualization app is built using Bokeh running on Flask. <br><br>
-
-Contact: Please reach out with questions or suggestions to rwmyers46@gmail.com
+Language preparation & processing utlized spaCy, NLTK, CountVectorizer, LDA, T-SNE. The visualization was built using Bokeh running on a Flask app deployed with Heroku. 
+    <br>
+      <h3>Contact:</h3>
+      <p>
+          Send me a message on <a href="https://www.linkedin.com/in/myersrussell">LinkedIn</a><br>
+          View full repository on <a href="https://github.com/rwmyers46/Venture-Market-Proximity">Github</a><br>
+          See other projects at <a href="https://rwmyers46.github.io">Portfolio</a>
       </p>
       
-    <h3> Russell W. Myers </h3>
+    <h3>Russell W. Myers </h3>
     
     <div class="container">
         {{ div|safe }}
