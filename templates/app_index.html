@@ -10,11 +10,12 @@
       
       <h3>Overview:</h3>
       
-      <p>  This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. Using data from Crunchbase, NLP with Vectorization was used establish and plot the relative market proximity of ventures in the dataset from their descriptions. Additional functionality, such as show venture name / category by hoever or view clusters with higher fidelity with zoom, can be accessed from the menu on the visualization's right border.
+      <p>  This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. With data sourced from Crunchbase, NLP & Vectorization were to applied to company descriptions to establish and plot their relative market proximity. Additional functionality can be accessed from the menu on the visualization's right border.
       </p>
 
       <h3> Process:</h3>
-      <p>By necessity, langauge is inherently precise. Language is blunted by the regional, cultural, and creative variations we humans introduce over time. Thus, the most significant source of error is not dependence upon language itself, but rather on the writers to accurately articulate a venture firm's value proposition. To mitigate variance from inconsistent company descriptions, the stated market categories were added to this descriptive text in the pre-processing phase. Company names and repeated word use were also removed from documents to reduce distortion.
+      
+      <p>By necessity, language is inherently precise. Language is blunted by the regional, cultural, and creative variations we humans introduce over time. Thus, the most significant source of error is not dependence upon language itself, but rather on the writers to accurately articulate a venture firm's value proposition. To mitigate variance from inconsistent company descriptions, the stated market categories were added to this descriptive text in the pre-processing phase. Company names and repeated words were also removed from documents to reduce distortion.
       </p>
       <h3>Data:</h3>
       <p>
@@ -29,11 +30,11 @@
       
       <h3>Technical:</h3>
       <p>
-Language preparation & processing utlized spaCy, NLTK, CountVectorizer, LDA, T-SNE. The visualization was built using Bokeh running on a Flask app deployed with Heroku. 
+Language preparation & processing utlized spaCy, NLTK, CountVectorizer, LDA, t-distributed Stochastic Neighbor Embedding (T-SNE), and TfidfVectorizer. The visualization was built using Bokeh running on Flask deployed with Heroku. 
     <br>
       <h3>Contact:</h3>
       <p>
-          Send me a message on <a href="https://www.linkedin.com/in/myersrussell">LinkedIn</a><br>
+          Message me on <a href="https://www.linkedin.com/in/myersrussell">LinkedIn</a><br>
           View full repository on <a href="https://github.com/rwmyers46/Venture-Market-Proximity">Github</a><br>
           See other projects at <a href="https://rwmyers46.github.io">Portfolio</a>
       </p>
