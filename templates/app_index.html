@@ -6,17 +6,30 @@
     <link href="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.3.4.min.css" rel="stylesheet">
   </head>
   <body>
-    <h1>AI / ML Venture Market Proximity Visualization using NLP</h1>
+    <h1>Visualizing Venture Markets with Natural Language Processing</h1>
+    <!--AI / ML Venture Market Proximity Visualization using NLP -->
       
-      <h3>Overview:</h3>
+         <h3>Overview:</h3>
+      <p>
+      <ul> 
+          <li> This project built an app to explore how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. </li>
+          <li> NLP & Vectorization were applied to company descriptions sourced from Crunchbase in the Artificial Intelligence / Machine Learning sector to establish and plot relative market proximity. </li>
+          <li> Additional functionality can be accessed from the menu on the visualization's right border. </li>
+      </ul>
       
-      <p>  This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. With data sourced from Crunchbase, NLP & Vectorization were to applied to company descriptions to establish and plot their relative market proximity. Additional functionality can be accessed from the menu on the visualization's right border.
+        <div class="container">
+        {{ div|safe }}
+    </div>
+      
+    <script src="https://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.js"></script>
+    <script src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.3.4.min.js"></script>
+      {{ script|safe }}
+      
+        <h3> Process:</h3>
+      
+      <p>By necessity, language is inherently precise. Language is blunted by the regional, cultural, and creative variations people introduce over time. Thus, the most significant source of error is not dependent upon language itself, but rather on the writers to accurately articulate a venture firm's value proposition. To mitigate variance from inconsistent company descriptions, the stated market categories were added to this descriptive text in the pre-processing phase. Company names and repeated words were also removed from documents to reduce distortion.
       </p>
-
-      <h3> Process:</h3>
       
-      <p>By necessity, language is inherently precise. Language is blunted by the regional, cultural, and creative variations we humans introduce over time. Thus, the most significant source of error is not dependence upon language itself, but rather on the writers to accurately articulate a venture firm's value proposition. To mitigate variance from inconsistent company descriptions, the stated market categories were added to this descriptive text in the pre-processing phase. Company names and repeated words were also removed from documents to reduce distortion.
-      </p>
       <h3>Data:</h3>
       <p>
           Startups on Crunchbase were filtered for those in the Artificial Intelligence & Machine Learning categories. All firms were founded within the past 3 years (8/25/2016) in the following 5 cities:
@@ -41,12 +54,5 @@ Language preparation & processing utlized spaCy, NLTK, CountVectorizer, LDA, t-d
       
     <h3>Russell W. Myers </h3>
     
-    <div class="container">
-        {{ div|safe }}
-    </div>
-      
-    <script src="https://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.js"></script>
-    <script src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.3.4.min.js"></script>
-      {{ script|safe }}
   </body>
 </html>
