@@ -1,7 +1,6 @@
 ## Venture-Market-Proximity
-[Try app on Heroku!](https://ai-ventures.herokuapp.com/)
 
-This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. With data sourced from Crunchbase, NLP & Vectorization were to applied to company descriptions to establish and plot their relative market proximity.
+This project's purpose was to investigate how Natural Language Processing (NLP) could be leveraged to discover insights that complement traditional market mapping. With data sourced from Crunchbase, NLP & Vectorization were to applied to company descriptions to establish and plot their relative market proximity. The associated article, [Natural Language Processing for Competitive Market Analysis](https://medium.com/@rwmyers46/marketing-with-nlp-765f4c607104) was published in [Data Science Weekly](https://www.datascienceweekly.org/) and [HackerNews](https://news.ycombinator.com/). You can [try the interactive visualization app on Heroku!](https://ai-ventures.herokuapp.com/)
 
 ![img](img/app_screenshot.png)
 
